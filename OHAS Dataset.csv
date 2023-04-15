@@ -224,8 +224,6 @@ Age,Gender,Height,Weight,Symptoms,Intensity,Disease
 26,male,182,165,homelessness,2,paranoia
 30,male,182,165,energy increased,2,paranoia
 34,male,182,165,mood depressed,0,paranoia
-20,male,187,165,decompensation,,paranoia
-25,male,187,165,cicatrisation,,paranoia
 29,female,187,165,scar tissue,1,paranoia
 33,female,187,165,blackout,2,paranoia
 23,male,176,165,loose associations,0,paranoia
@@ -931,7 +929,6 @@ Age,Gender,Height,Weight,Symptoms,Intensity,Disease
 22,male,172,350,night sweat,0,acquired immuno-deficiency syndrome
 28,male,180,350,spontaneous rupture of membranes,2,acquired immuno-deficiency syndrome
 28,female,180,350,cough,1,acquired immuno-deficiency syndrome
-28,male,180,350,,2,acquired immuno-deficiency syndrome
 33,female,180,350,decreased body weight,2,acquired immuno-deficiency syndrome
 33,male,180,350,chill,0,acquired immuno-deficiency syndrome
 31,female,162,350,diarrhea,1,acquired immuno-deficiency syndrome
@@ -1884,7 +1881,6 @@ Age,Gender,Height,Weight,Symptoms,Intensity,Disease
 24,male,190,350,night sweat,0,HIV
 24,female,190,350,spontaneous rupture of membranes,1,HIV
 27,female,154,350,cough,2,HIV
-20,female,160,350,,0,HIV
 25,male,190,350,decreased body weight,2,HIV
 26,female,192,350,chill,1,HIV
 23,male,175,350,diarrhea,2,HIV
