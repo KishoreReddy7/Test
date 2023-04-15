@@ -1,0 +1,2130 @@
+Age,Gender,Height,Weight,Symptoms,Intensity,Disease
+24,female,180,68,uncoordination,2,influenza
+23,male,170,68,fever,0,influenza
+24,male,162,68,pleuritic pain,0,influenza
+34,male,162,68,snuffle,2,influenza
+21,male,185,68,throat sore,0,influenza
+21,female,185,68,malaise,1,influenza
+25,female,185,68,debilitation,1,influenza
+25,female,185,68,asthenia,0,influenza
+27,male,185,68,chill,1,influenza
+27,female,185,68,scleral icterus,2,influenza
+31,male,188,68,nasal flaring,1,influenza
+31,female,188,68,dysuria,1,influenza
+31,male,188,68,lip smacking,2,influenza
+31,female,188,68,headache,0,influenza
+33,male,188,68,sneeze,1,influenza
+33,male,188,68,snore,2,influenza
+33,female,188,68,green sputum,0,influenza
+33,male,188,68,shortness of breath,2,influenza
+31,male,183,68,distress respiratory,2,influenza
+31,male,183,68,blackout,0,influenza
+31,female,183,68,extreme exhaustion,0,influenza
+31,female,183,140,heme positive,2,gastritis
+33,male,183,140,pain abdominal,0,gastritis
+33,female,183,140,vomiting,2,gastritis
+33,male,183,140,disequilibrium,2,gastritis
+33,female,183,140,nausea,2,gastritis
+18,female,168,140,intoxication,1,gastritis
+18,female,168,140,haemorrhage,2,gastritis
+26,male,186,140,guaiac positive,0,gastritis
+26,male,162,140,pain,2,gastritis
+22,male,182,140,decreased body weight,2,gastritis
+31,female,172,140,sore to touch,0,gastritis
+30,female,159,140,dizziness,0,gastritis
+34,male,159,685,pain,2,hypercholesterolemia
+32,male,171,685,pain chest,0,hypercholesterolemia
+22,male,162,685,sweat,0,hypercholesterolemia
+22,female,162,685,sweating increased,2,hypercholesterolemia
+30,male,162,685,nonsmoker,2,hypercholesterolemia
+30,male,162,685,pressure chest,2,hypercholesterolemia
+34,male,162,685,syncope,1,hypercholesterolemia
+28,female,184,685,numbness,2,hypercholesterolemia
+28,female,175,685,chest discomfort,0,hypercholesterolemia
+28,male,175,685,shortness of breath,2,hypercholesterolemia
+28,female,175,685,st segment depression,1,hypercholesterolemia
+28,male,175,685,worry,2,hypercholesterolemia
+28,male,175,685,t wave inverted,1,hypercholesterolemia
+28,female,175,685,bradycardia,2,hypercholesterolemia
+28,female,175,685,dyspnea,1,hypercholesterolemia
+28,female,175,290,seizure,2,epilepsy
+32,male,175,290,hypometabolism,0,epilepsy
+32,female,175,290,aura,2,epilepsy
+32,female,175,290,muscle twitch,2,epilepsy
+32,male,175,290,drowsiness,0,epilepsy
+32,male,175,290,tremor,0,epilepsy
+32,female,175,290,unresponsiveness,2,epilepsy
+32,male,175,290,hemiplegia,0,epilepsy
+32,female,175,290,myoclonus,2,epilepsy
+31,male,189,290,gurgle,2,epilepsy
+54,female,162,290,sleepy,2,epilepsy
+20,female,176,290,lethargy,1,epilepsy
+20,male,176,290,wheelchair bound,2,epilepsy
+20,male,176,445,shortness of breath,0,insufficiency renal
+20,male,176,445,hyperkalemia,2,insufficiency renal
+22,female,176,445,orthopnea,2,insufficiency renal
+22,female,176,445,rale,0,insufficiency renal
+22,female,176,445,urgency of micturition,0,insufficiency renal
+22,female,176,445,ascites,2,insufficiency renal
+22,male,176,445,guaiac positive,0,insufficiency renal
+26,female,176,445,asthenia,0,insufficiency renal
+26,male,176,445,apyrexial,2,insufficiency renal
+26,female,176,445,mental status changes,2,insufficiency renal
+26,male,176,445,dyspnea,2,insufficiency renal
+30,female,176,445,difficulty,1,insufficiency renal
+30,male,176,445,diarrhea,2,insufficiency renal
+30,male,176,445,hypotension,0,insufficiency renal
+30,male,176,445,breath sounds decreased,2,insufficiency renal
+30,female,176,445,swelling,1,insufficiency renal
+34,male,176,445,hypokinesia,2,insufficiency renal
+34,female,176,297,fever,1,dehydration
+27,female,163,297,diarrhea,2,dehydration
+22,male,170,297,vomiting,0,dehydration
+22,female,187,297,hypotension,2,dehydration
+26,male,187,297,nausea,2,dehydration
+24,female,162,297,lightheadedness,0,dehydration
+24,female,162,297,unwell,0,dehydration
+27,male,162,297,mental status changes,2,dehydration
+24,female,162,297,anorexia,0,dehydration
+17,female,169,297,asthenia,2,dehydration
+26,female,162,297,sensory discomfort,2,dehydration
+43,female,170,297,syncope,2,dehydration
+47,female,170,297,lethargy,1,dehydration
+22,female,162,297,dizziness,2,dehydration
+26,male,189,297,syncope,0,dehydration
+30,male,189,297,blackout,2,dehydration
+24,female,174,297,history of - blackout,2,dehydration
+23,female,162,398,shortness of breath,0,hypothyroidism
+24,female,187,398,prostatism,0,hypothyroidism
+28,male,187,398,drowsiness,2,hypothyroidism
+30,male,187,398,sleepy,0,hypothyroidism
+24,male,190,398,hyponatremia,0,hypothyroidism
+21,female,194,398,fall,2,hypothyroidism
+21,male,194,398,unsteady gait,2,hypothyroidism
+21,female,194,398,polyuria,2,hypothyroidism
+25,female,194,398,hypotension,1,hypothyroidism
+25,female,194,398,difficulty,2,hypothyroidism
+23,male,182,398,syncope,0,hypothyroidism
+20,female,162,398,nightmare,2,hypothyroidism
+33,male,162,398,speech slurred,1,hypothyroidism
+33,male,162,398,weight gain,2,hypothyroidism
+33,male,162,398,asthenia,1,hypothyroidism
+23,male,162,398,fatigue,2,hypothyroidism
+27,female,162,398,tired,0,hypothyroidism
+27,male,162,398,agitation,2,hypothyroidism
+31,female,162,398,mental status changes,2,hypothyroidism
+31,male,162,398,motor retardation,0,hypothyroidism
+31,male,162,398,vomiting,0,hypothyroidism
+28,male,162,398,numbness,2,hypothyroidism
+25,female,162,398,mass of body structure,0,hypothyroidism
+34,female,185,61,pain abdominal,2,hernia hiatal
+25,female,182,61,fatigability,2,hernia hiatal
+25,male,182,61,prodrome,2,hernia hiatal
+29,male,182,61,vomiting,1,hernia hiatal
+29,female,182,61,nausea,2,hernia hiatal
+29,male,182,61,myalgia,0,hernia hiatal
+41,female,162,61,hyponatremia,2,hernia hiatal
+33,female,194,61,sore to touch,2,hernia hiatal
+45,female,194,61,general discomfort,0,hernia hiatal
+49,female,194,61,dyspnea on exertion,0,hernia hiatal
+53,female,194,61,asterixis,2,hernia hiatal
+57,male,194,61,guaiac positive,0,hernia hiatal
+22,female,177,61,numbness of hand,0,hernia hiatal
+22,female,177,61,headache,2,hernia hiatal
+26,female,177,61,photophobia,2,hernia hiatal
+30,male,177,96,para 2,2,fibroid tumor
+24,female,162,96,haemorrhage,1,fibroid tumor
+24,female,168,96,abortion,2,fibroid tumor
+28,male,168,96,intermenstrual heavy bleeding,0,fibroid tumor
+22,male,185,96,muscle hypotonia,2,fibroid tumor
+26,female,185,96,hypotonic,1,fibroid tumor
+23,female,167,96,previous pregnancies 2,2,fibroid tumor
+23,male,167,96,shortness of breath,1,fibroid tumor
+23,male,167,96,fever,2,fibroid tumor
+23,male,167,96,heartburn,0,fibroid tumor
+23,male,167,96,primigravida,2,fibroid tumor
+23,male,167,96,abnormally hard consistency,2,fibroid tumor
+22,female,189,96,proteinemia,0,fibroid tumor
+24,male,172,126,paresthesia,0,deglutition disorder
+34,female,162,126,titubation,2,deglutition disorder
+26,female,170,126,dysarthria,0,deglutition disorder
+21,male,162,126,painful swallowing,2,deglutition disorder
+21,male,162,126,hoarseness,2,deglutition disorder
+24,male,176,126,stridor,2,deglutition disorder
+34,female,162,126,spasm,1,deglutition disorder
+34,female,162,126,asthenia,2,deglutition disorder
+24,female,164,126,dysdiadochokinesia,0,deglutition disorder
+28,male,164,126,ataxia,2,deglutition disorder
+24,male,172,126,achalasia,2,deglutition disorder
+26,male,175,126,decreased body weight,0,deglutition disorder
+21,male,198,126,stiffness,0,deglutition disorder
+30,female,194,126,lesion,2,deglutition disorder
+31,female,162,126,side pain,0,deglutition disorder
+21,female,165,169,prostatism,0,osteoporosis
+34,male,156,169,fall,2,osteoporosis
+22,female,179,169,hirsutism,2,osteoporosis
+26,male,179,169,sniffle,2,osteoporosis
+23,male,178,169,distended abdomen,1,osteoporosis
+23,female,178,169,vertigo,2,osteoporosis
+19,female,185,169,numbness of hand,0,osteoporosis
+26,female,167,169,bradykinesia,2,osteoporosis
+27,male,172,169,pain,1,osteoporosis
+27,male,172,169,syncope,2,osteoporosis
+24,male,180,169,out of breath,2,osteoporosis
+28,male,180,169,apyrexial,2,osteoporosis
+23,female,182,169,urge incontinence,1,osteoporosis
+27,female,182,169,lightheadedness,2,osteoporosis
+31,female,182,70,tremor,0,chronic alcoholic intoxication
+30,male,182,70,hallucinations auditory,2,chronic alcoholic intoxication
+22,male,178,70,suicidal,2,chronic alcoholic intoxication
+22,female,185,70,hoard,0,chronic alcoholic intoxication
+27,female,166,70,irritable mood,0,chronic alcoholic intoxication
+26,male,162,70,feeling hopeless,2,chronic alcoholic intoxication
+23,female,162,70,feeling suicidal,0,chronic alcoholic intoxication
+22,male,186,70,neologism,0,chronic alcoholic intoxication
+22,female,190,70,seizure,2,chronic alcoholic intoxication
+26,male,183,70,homelessness,2,chronic alcoholic intoxication
+22,male,162,70,sleeplessness,2,chronic alcoholic intoxication
+26,female,165,70,unconscious state,1,chronic alcoholic intoxication
+24,female,181,70,panic,2,chronic alcoholic intoxication
+28,female,181,70,breath sounds decreased,0,chronic alcoholic intoxication
+32,female,181,70,shortness of breath,2,chronic alcoholic intoxication
+22,male,182,835,wheezing,1,asthma
+26,female,182,835,cough,2,asthma
+29,male,188,835,shortness of breath,0,asthma
+25,female,168,835,chest tightness,2,asthma
+21,male,162,835,non-productive cough,1,asthma
+21,male,163,835,pleuritic pain,2,asthma
+21,female,163,835,productive cough,2,asthma
+27,female,190,835,symptom aggravating factors,1,asthma
+21,female,180,835,distress respiratory,2,asthma
+34,female,190,311,fever,2,sepsis (invertebrate)
+38,female,190,311,distress respiratory,0,sepsis (invertebrate)
+38,female,162,311,hypotension,1,sepsis (invertebrate)
+35,female,155,311,tachypnea,2,sepsis (invertebrate)
+18,female,168,311,chill,0,sepsis (invertebrate)
+16,male,180,311,lethargy,2,sepsis (invertebrate)
+30,female,169,311,bradycardia,1,sepsis (invertebrate)
+30,male,169,311,breech presentation,2,sepsis (invertebrate)
+30,male,169,311,cyanosis,0,sepsis (invertebrate)
+30,female,181,311,spontaneous rupture of membranes,2,sepsis (invertebrate)
+22,male,162,311,haemorrhage,1,sepsis (invertebrate)
+22,male,162,311,unresponsiveness,2,sepsis (invertebrate)
+25,male,170,311,rale,2,sepsis (invertebrate)
+34,male,162,311,apyrexial,0,sepsis (invertebrate)
+34,female,162,165,hallucinations auditory,1,paranoia
+25,female,162,165,hallucinations visual,2,paranoia
+26,female,162,165,agitation,0,paranoia
+19,female,175,165,irritable mood,2,paranoia
+23,male,175,165,verbal auditory hallucinations,1,paranoia
+22,female,188,165,feeling suicidal,2,paranoia
+29,female,188,165,suicidal,0,paranoia
+34,female,188,165,terrify,2,paranoia
+22,female,182,165,neologism,1,paranoia
+26,male,182,165,homelessness,2,paranoia
+30,male,182,165,energy increased,2,paranoia
+34,male,182,165,mood depressed,0,paranoia
+20,male,187,165,decompensation,,paranoia
+25,male,187,165,cicatrisation,,paranoia
+29,female,187,165,scar tissue,1,paranoia
+33,female,187,165,blackout,2,paranoia
+23,male,176,165,loose associations,0,paranoia
+23,female,176,56,abscess bacterial,2,ileus
+27,female,176,56,abdomen acute,1,ileus
+20,female,175,56,air fluid level,2,ileus
+22,male,190,56,catching breath,0,ileus
+21,male,169,56,abdominal tenderness,2,ileus
+22,female,175,56,nausea,1,ileus
+20,female,160,56,sore to touch,2,ileus
+24,male,181,56,flatulence,2,ileus
+28,male,162,56,diarrhea,0,ileus
+32,male,162,56,mass of body structure,1,ileus
+22,female,178,56,apyrexial,2,ileus
+22,female,178,56,constipation,0,ileus
+22,female,165,56,thicken,2,ileus
+19,male,162,56,gravida 0,1,ileus
+26,female,170,56,pain abdominal,2,ileus
+23,male,168,297,mass of body structure,0,neoplasm
+28,female,173,297,lesion,2,neoplasm
+25,male,178,297,pain chest,1,neoplasm
+29,male,178,297,hematuria,2,neoplasm
+37,male,178,297,tumor cell invasion,2,neoplasm
+31,male,162,297,pain,0,neoplasm
+28,female,170,297,anosmia,1,neoplasm
+20,male,164,297,thicken,2,neoplasm
+20,male,165,297,metastatic lesion,0,neoplasm
+24,male,165,297,food intolerance,2,neoplasm
+28,female,165,297,decreased body weight,1,neoplasm
+28,male,173,297,night sweat,2,neoplasm
+22,female,181,297,hemianopsia homonymous,0,neoplasm
+18,male,182,297,satiety early,2,neoplasm
+33,male,159,297,pain abdominal,1,neoplasm
+28,female,171,297,headache,2,neoplasm
+34,female,162,76,out of breath,2,obesity morbid
+23,male,192,76,sedentary,0,obesity morbid
+23,male,178,76,angina pectoris,1,obesity morbid
+29,female,195,76,cough,2,obesity morbid
+15,male,175,76,unhappy,0,obesity morbid
+19,male,175,76,labored breathing,2,obesity morbid
+24,female,180,76,"hypothermia, natural",1,obesity morbid
+34,male,162,76,dyspnea,2,obesity morbid
+42,male,172,76,hematocrit decreased,0,obesity morbid
+46,male,172,76,wheezing,2,obesity morbid
+30,male,167,76,hypoxemia,1,obesity morbid
+30,male,167,76,renal angle tenderness,2,obesity morbid
+26,male,183,76,feels hot/feverish,2,obesity morbid
+21,male,184,354,pain,0,primary malignant neoplasm
+23,female,179,354,mass of body structure,1,primary malignant neoplasm
+24,male,175,354,lesion,2,primary malignant neoplasm
+28,female,175,354,cushingoid facies,0,primary malignant neoplasm
+28,male,175,354,cushingoid habitus,2,primary malignant neoplasm
+19,female,179,354,emphysematous change,1,primary malignant neoplasm
+41,female,160,354,decreased body weight,2,primary malignant neoplasm
+21,male,164,354,ascites,0,primary malignant neoplasm
+30,male,163,354,hoarseness,2,primary malignant neoplasm
+23,female,162,354,thicken,1,primary malignant neoplasm
+42,female,162,354,hematuria,2,primary malignant neoplasm
+34,male,185,138,orthopnea,2,failure heart
+23,female,191,138,fatigue,0,failure heart
+40,female,165,138,dyspnea on exertion,1,failure heart
+22,female,185,138,dyspnea,2,failure heart
+26,male,185,138,shortness of breath,0,failure heart
+34,female,185,138,pansystolic murmur,2,failure heart
+23,male,195,138,jugular venous distention,1,failure heart
+22,male,192,138,systolic ejection murmur,2,failure heart
+26,female,192,138,hypotension,0,failure heart
+21,male,162,138,angina pectoris,2,failure heart
+15,male,167,138,hypokinesia,1,failure heart
+15,male,167,152,mass in breast,2,malignant neoplasm of breast
+19,male,167,152,mass of body structure,2,malignant neoplasm of breast
+25,male,163,152,paresthesia,0,malignant neoplasm of breast
+28,female,203,152,retropulsion,1,malignant neoplasm of breast
+25,male,162,152,erythema,2,malignant neoplasm of breast
+29,female,162,152,difficulty,0,malignant neoplasm of breast
+34,female,162,152,lesion,2,malignant neoplasm of breast
+34,female,162,152,estrogen use,1,malignant neoplasm of breast
+34,female,162,152,burning sensation,2,malignant neoplasm of breast
+34,male,162,152,dyspnea,0,malignant neoplasm of breast
+34,female,162,152,swelling,2,malignant neoplasm of breast
+34,female,162,152,formication,1,malignant neoplasm of breast
+34,male,162,92,drowsiness,2,tonic-clonic epilepsy
+34,female,162,92,lip smacking,2,tonic-clonic epilepsy
+22,male,162,92,myoclonus,0,tonic-clonic epilepsy
+20,female,175,92,tremor,1,tonic-clonic epilepsy
+21,male,168,92,phonophobia,2,tonic-clonic epilepsy
+29,male,168,92,rolling of eyes,0,tonic-clonic epilepsy
+34,female,162,92,sleepy,2,tonic-clonic epilepsy
+23,male,169,92,hirsutism,1,tonic-clonic epilepsy
+19,male,158,92,moody,2,tonic-clonic epilepsy
+18,male,172,92,muscle twitch,0,tonic-clonic epilepsy
+25,female,174,92,unresponsiveness,2,tonic-clonic epilepsy
+32,male,168,92,headache,1,tonic-clonic epilepsy
+34,male,170,92,ambidexterity,2,tonic-clonic epilepsy
+19,female,162,92,absences finding,2,tonic-clonic epilepsy
+31,male,162,92,spasm,0,tonic-clonic epilepsy
+34,male,162,92,decreased body weight,1,tonic-clonic epilepsy
+23,male,174,92,tumor cell invasion,2,tonic-clonic epilepsy
+23,male,180,168,speech slurred,0,transient ischemic attack
+32,female,180,168,dysarthria,2,transient ischemic attack
+34,male,176,168,facial paresis,1,transient ischemic attack
+34,female,176,168,asthenia,2,transient ischemic attack
+18,male,154,168,neck stiffness,0,transient ischemic attack
+22,female,154,168,vertigo,2,transient ischemic attack
+18,male,153,168,numbness,1,transient ischemic attack
+29,female,162,168,lightheadedness,2,transient ischemic attack
+34,female,162,168,extrapyramidal sign,2,transient ischemic attack
+30,female,186,168,Stahli's line,0,transient ischemic attack
+31,male,162,168,vision blurred,1,transient ischemic attack
+31,male,162,168,headache,2,transient ischemic attack
+31,male,162,168,room spinning,0,transient ischemic attack
+35,male,162,168,syncope,2,transient ischemic attack
+35,female,162,168,difficulty,1,transient ischemic attack
+34,female,162,168,rambling speech,2,transient ischemic attack
+32,male,152,168,clumsiness,0,transient ischemic attack
+24,female,193,163,hematuria,2,malignant neoplasm of prostate
+34,male,162,163,dysesthesia,1,malignant neoplasm of prostate
+34,female,162,163,asthenia,2,malignant neoplasm of prostate
+20,female,162,163,polymyalgia,2,malignant neoplasm of prostate
+25,male,189,163,passed stones,0,malignant neoplasm of prostate
+21,male,162,163,pleuritic pain,1,malignant neoplasm of prostate
+21,female,162,163,guaiac positive,2,malignant neoplasm of prostate
+21,male,162,163,rale,0,malignant neoplasm of prostate
+25,female,162,163,breath sounds decreased,2,malignant neoplasm of prostate
+25,female,162,163,urge incontinence,1,malignant neoplasm of prostate
+33,female,162,163,dysuria,2,malignant neoplasm of prostate
+34,male,176,163,diarrhea,0,malignant neoplasm of prostate
+24,female,162,163,vertigo,2,malignant neoplasm of prostate
+32,male,162,163,qt interval prolonged,1,malignant neoplasm of prostate
+24,male,183,163,ataxia,2,malignant neoplasm of prostate
+28,male,172,163,paresis,2,malignant neoplasm of prostate
+29,male,162,163,hemianopsia homonymous,0,malignant neoplasm of prostate
+23,female,178,163,tumor cell invasion,1,malignant neoplasm of prostate
+27,female,178,163,hemodynamically stable,2,malignant neoplasm of prostate
+24,male,162,163,mass of body structure,0,malignant neoplasm of prostate
+25,female,188,163,rhonchus,2,malignant neoplasm of prostate
+19,female,198,163,orthostasis,1,malignant neoplasm of prostate
+23,female,198,163,decreased body weight,2,malignant neoplasm of prostate
+23,female,197,294,shortness of breath,0,embolism pulmonary
+31,female,197,294,hypoxemia,2,embolism pulmonary
+21,female,176,294,tachypnea,1,embolism pulmonary
+24,male,162,294,hematocrit decreased,2,embolism pulmonary
+18,male,162,294,pain chest,2,embolism pulmonary
+22,female,162,294,dyspnea,0,embolism pulmonary
+21,female,162,294,pleuritic pain,1,embolism pulmonary
+33,female,162,294,neck stiffness,2,embolism pulmonary
+33,male,162,294,yellow sputum,0,embolism pulmonary
+37,male,162,294,productive cough,2,embolism pulmonary
+37,female,162,294,cicatrisation,1,embolism pulmonary
+37,female,162,294,unresponsiveness,2,embolism pulmonary
+37,male,162,294,distress respiratory,0,embolism pulmonary
+20,female,162,294,wheezing,2,embolism pulmonary
+34,male,162,294,apyrexial,1,embolism pulmonary
+27,female,188,294,non-productive cough,2,embolism pulmonary
+16,male,162,101,shortness of breath,2,tricuspid valve insufficiency
+21,male,162,101,pain,0,tricuspid valve insufficiency
+21,female,162,101,vomiting,1,tricuspid valve insufficiency
+30,male,180,101,nausea,2,tricuspid valve insufficiency
+28,male,170,101,bradycardia,0,tricuspid valve insufficiency
+36,female,170,101,pain abdominal,2,tricuspid valve insufficiency
+36,male,170,101,fever,1,tricuspid valve insufficiency
+21,female,162,101,cicatrisation,2,tricuspid valve insufficiency
+21,female,190,101,mediastinal shift,0,tricuspid valve insufficiency
+26,male,190,101,impaired cognition,2,tricuspid valve insufficiency
+22,female,165,90,hemiplegia,1,respiratory failure
+27,male,195,90,snore,2,respiratory failure
+28,male,162,90,unresponsiveness,2,respiratory failure
+34,female,162,90,productive cough,0,respiratory failure
+24,male,162,90,dyspnea,1,respiratory failure
+22,female,157,90,tachypnea,2,respiratory failure
+19,male,162,90,hyperkalemia,0,respiratory failure
+19,male,162,90,hypokinesia,2,respiratory failure
+19,female,162,90,sinus rhythm,1,respiratory failure
+19,female,162,90,general unsteadiness,2,respiratory failure
+19,male,162,90,bruit,0,respiratory failure
+19,female,162,90,consciousness clear,2,respiratory failure
+19,male,162,90,shortness of breath,1,respiratory failure
+19,male,162,90,lesion,2,respiratory failure
+34,female,162,90,redness,2,respiratory failure
+23,female,165,405,pain,0,degenerative polyarthritis
+27,female,165,405,food intolerance,1,degenerative polyarthritis
+35,male,165,405,numbness of hand,2,degenerative polyarthritis
+34,male,162,405,general discomfort,0,degenerative polyarthritis
+27,male,188,405,drowsiness,2,degenerative polyarthritis
+24,female,176,405,asthenia,1,degenerative polyarthritis
+26,female,175,405,nonsmoker,2,degenerative polyarthritis
+34,male,162,405,non-productive cough,0,degenerative polyarthritis
+34,female,162,405,polydypsia,2,degenerative polyarthritis
+34,female,162,405,stiffness,1,degenerative polyarthritis
+34,male,162,405,unsteady gait,2,degenerative polyarthritis
+34,female,162,76,clonus,2,aphasia
+34,male,162,76,egophony,0,aphasia
+34,female,162,76,facial paresis,1,aphasia
+34,male,162,76,aphagia,2,aphasia
+41,male,162,76,muscle twitch,0,aphasia
+24,male,173,76,paralyse,2,aphasia
+28,male,173,76,low back pain,1,aphasia
+17,male,159,76,charleyhorse,2,aphasia
+21,male,170,94,thicken,0,neoplasm metastasis
+25,female,162,94,tumor cell invasion,2,neoplasm metastasis
+21,female,170,94,metastatic lesion,1,neoplasm metastasis
+25,female,170,94,pain neck,2,neoplasm metastasis
+20,female,162,94,lung nodule,2,neoplasm metastasis
+36,male,170,94,pain,0,neoplasm metastasis
+40,female,170,94,pain abdominal,1,neoplasm metastasis
+23,male,184,94,food intolerance,2,neoplasm metastasis
+19,female,160,94,mass of body structure,0,neoplasm metastasis
+23,male,170,94,atypia,2,neoplasm metastasis
+20,male,165,94,lesion,1,malignant tumor of colon
+23,male,194,94,prostatism,2,malignant tumor of colon
+22,male,167,94,constipation,0,malignant tumor of colon
+22,female,167,94,general discomfort,2,malignant tumor of colon
+22,male,167,94,diarrhea,1,malignant tumor of colon
+22,female,167,94,pain abdominal,2,malignant tumor of colon
+22,female,167,94,urinary hesitation,2,malignant tumor of colon
+21,male,162,94,dizzy spells,0,malignant tumor of colon
+26,female,207,94,shooting pain,1,malignant tumor of colon
+24,male,170,94,bradycardia,2,malignant tumor of colon
+19,female,170,94,vomiting,0,malignant tumor of colon
+23,male,170,94,systolic ejection murmur,2,malignant tumor of colon
+22,female,173,94,nausea,1,malignant tumor of colon
+26,female,173,94,hyperemesis,2,malignant tumor of colon
+22,male,170,94,polydypsia,0,malignant tumor of colon
+26,male,170,105,lesion,2,lymphoma
+27,male,176,105,fever,1,lymphoma
+27,male,176,105,welt,2,lymphoma
+30,male,178,105,transaminitis,2,lymphoma
+34,male,178,105,decreased body weight,0,lymphoma
+19,male,177,105,ataxia,1,lymphoma
+23,female,177,105,tinnitus,2,lymphoma
+21,female,170,105,hydropneumothorax,0,lymphoma
+25,male,170,105,superimposition,2,lymphoma
+21,female,162,105,haemoptysis,1,lymphoma
+21,female,162,105,fatigue,2,lymphoma
+29,male,162,105,tired,0,lymphoma
+29,female,162,105,polydypsia,2,lymphoma
+29,male,162,105,difficulty passing urine,1,lymphoma
+29,male,162,544,chill,2,anemia
+41,female,162,544,guaiac positive,2,anemia
+23,female,178,544,monoclonal,0,anemia
+27,female,178,544,ecchymosis,1,anemia
+31,female,178,544,tumor cell invasion,2,anemia
+35,female,178,544,haemorrhage,0,anemia
+19,male,169,544,pallor,2,anemia
+23,female,169,544,asthenia,1,anemia
+27,female,169,544,fatigue,2,anemia
+17,female,162,544,heme positive,0,anemia
+21,male,173,544,pain back,2,anemia
+21,male,173,544,orthostasis,1,anemia
+21,male,173,544,hyponatremia,2,anemia
+34,male,162,544,dizziness,2,anemia
+24,male,183,544,shortness of breath,0,anemia
+26,male,176,544,pain,1,anemia
+23,male,185,544,rhonchus,2,anemia
+29,male,175,544,arthralgia,0,anemia
+31,female,162,544,swelling,2,anemia
+22,female,165,544,transaminitis,1,anemia
+19,male,180,524,shortness of breath,2,chronic obstructive airway disease
+19,female,180,524,wheezing,0,chronic obstructive airway disease
+23,female,180,524,cough,2,chronic obstructive airway disease
+23,male,180,524,dyspnea,1,chronic obstructive airway disease
+25,female,162,524,distress respiratory,2,chronic obstructive airway disease
+27,male,180,524,sputum purulent,2,chronic obstructive airway disease
+23,female,188,524,hypoxemia,0,chronic obstructive airway disease
+27,female,162,524,hypercapnia,1,chronic obstructive airway disease
+30,female,165,524,patient non compliance,2,chronic obstructive airway disease
+17,male,147,524,chest tightness,0,chronic obstructive airway disease
+24,male,184,140,breakthrough pain,2,sickle cell anemia
+22,male,180,140,pain back,1,sickle cell anemia
+24,female,163,140,pain,2,sickle cell anemia
+28,male,163,140,shortness of breath,0,sickle cell anemia
+19,female,160,140,snuffle,2,sickle cell anemia
+19,female,160,140,pain chest,1,sickle cell anemia
+27,male,160,140,pain abdominal,2,sickle cell anemia
+25,male,162,140,hepatosplenomegaly,2,sickle cell anemia
+23,male,172,140,green sputum,0,sickle cell anemia
+27,male,172,140,apyrexial,1,sickle cell anemia
+19,female,175,140,headache,2,sickle cell anemia
+34,male,162,1284,pain chest,0,coronary arteriosclerosis
+34,male,162,1284,angina pectoris,2,coronary arteriosclerosis
+30,male,180,1284,shortness of breath,1,coronary arteriosclerosis
+34,female,180,1284,hypokinesia,2,coronary arteriosclerosis
+22,female,169,1284,sweat,0,coronary arteriosclerosis
+27,male,162,1284,sweating increased,2,coronary arteriosclerosis
+34,male,162,1284,pressure chest,1,coronary arteriosclerosis
+23,male,169,1284,dyspnea on exertion,2,coronary arteriosclerosis
+23,male,169,1284,orthopnea,2,coronary arteriosclerosis
+20,male,156,1284,chest tightness,0,coronary arteriosclerosis
+17,male,176,66,moan,1,cholecystitis
+17,male,168,66,nausea,2,cholecystitis
+14,male,162,66,pain abdominal,0,cholecystitis
+26,female,172,66,Murphy's sign,2,cholecystitis
+34,male,178,66,flatulence,1,cholecystitis
+30,female,175,66,colic abdominal,2,cholecystitis
+34,female,175,66,pain,0,cholecystitis
+29,female,174,66,ascites,2,cholecystitis
+24,female,173,66,diarrhea,1,cholecystitis
+38,male,169,66,qt interval prolonged,2,cholecystitis
+23,female,181,66,cardiovascular finding,2,cholecystitis
+22,female,163,66,cardiovascular event,0,cholecystitis
+26,female,163,66,groggy,1,cholecystitis
+34,male,178,66,sinus rhythm,2,cholecystitis
+34,male,178,66,gasping for breath,0,cholecystitis
+34,male,177,66,constipation,2,cholecystitis
+34,female,162,66,feces in rectum,1,cholecystitis
+34,male,160,66,abnormally hard consistency,2,cholecystitis
+21,male,162,267,suicidal,0,psychotic disorder
+33,male,162,267,hallucinations auditory,2,psychotic disorder
+24,male,180,267,feeling suicidal,1,psychotic disorder
+39,female,162,267,hallucinations visual,2,psychotic disorder
+23,female,162,267,motor retardation,2,psychotic disorder
+21,female,162,267,blackout,0,psychotic disorder
+21,male,162,267,verbal auditory hallucinations,1,psychotic disorder
+30,female,162,267,feeling hopeless,2,psychotic disorder
+32,female,158,267,irritable mood,0,psychotic disorder
+21,female,185,267,agitation,2,psychotic disorder
+22,female,175,267,tremor,1,psychotic disorder
+21,male,172,267,catatonia,2,psychotic disorder
+21,male,172,267,weepiness,0,psychotic disorder
+25,male,172,267,homelessness,2,psychotic disorder
+25,female,172,267,sleeplessness,1,psychotic disorder
+22,female,180,267,withdraw,2,psychotic disorder
+26,female,166,267,energy increased,2,psychotic disorder
+26,male,160,267,intoxication,0,psychotic disorder
+24,female,181,267,worry,1,psychotic disorder
+24,male,181,267,behavior hyperactive,2,psychotic disorder
+24,female,181,267,patient non compliance,0,psychotic disorder
+24,female,181,267,mood depressed,2,psychotic disorder
+24,male,181,267,terrify,1,psychotic disorder
+20,male,162,267,nightmare,2,psychotic disorder
+28,male,162,267,consciousness clear,0,psychotic disorder
+18,female,162,67,hypokinesia,2,thrombus
+27,male,164,67,anorexia,1,thrombus
+20,female,184,67,hypertonicity,2,thrombus
+31,female,187,67,shortness of breath,2,thrombus
+32,male,162,67,hypoalbuminemia,0,thrombus
+25,male,162,67,pruritus,1,thrombus
+34,female,176,67,sore to touch,2,thrombus
+34,female,176,67,hemodynamically stable,0,thrombus
+34,female,176,67,facial paresis,2,thrombus
+34,male,176,67,vomiting,1,thrombus
+34,female,176,67,stool color yellow,2,thrombus
+34,male,176,280,vomiting,0,chronic kidney failure
+34,female,165,280,orthopnea,2,chronic kidney failure
+34,female,180,280,hyperkalemia,1,chronic kidney failure
+21,female,162,280,oliguria,2,chronic kidney failure
+23,female,162,280,jugular venous distention,2,chronic kidney failure
+21,female,188,280,nausea,0,chronic kidney failure
+21,female,188,280,shortness of breath,1,chronic kidney failure
+21,male,188,280,mental status changes,2,chronic kidney failure
+25,female,188,280,diarrhea,0,chronic kidney failure
+21,male,162,280,asthenia,2,chronic kidney failure
+25,female,162,280,chest tightness,1,chronic kidney failure
+34,male,190,280,malaise,2,chronic kidney failure
+34,male,190,280,chill,0,chronic kidney failure
+28,male,162,280,rale,2,chronic kidney failure
+28,female,188,280,fever,1,chronic kidney failure
+27,male,164,280,pleuritic pain,2,chronic kidney failure
+32,female,164,280,apyrexial,2,chronic kidney failure
+22,male,169,280,guaiac positive,0,chronic kidney failure
+26,female,169,280,swelling,1,chronic kidney failure
+22,female,190,280,catatonia,2,chronic kidney failure
+26,female,190,280,unresponsiveness,0,chronic kidney failure
+25,female,167,280,yellow sputum,2,chronic kidney failure
+29,male,167,1337,feeling suicidal,1,depressive disorder
+33,male,167,1337,suicidal,2,depressive disorder
+21,female,170,1337,hallucinations auditory,0,depressive disorder
+27,male,175,1337,feeling hopeless,2,depressive disorder
+16,female,177,1337,weepiness,1,depressive disorder
+16,female,162,1337,sleeplessness,2,depressive disorder
+20,female,162,1337,motor retardation,2,depressive disorder
+23,male,168,1337,irritable mood,0,depressive disorder
+20,female,168,1337,blackout,1,depressive disorder
+15,female,170,1337,mood depressed,2,depressive disorder
+19,male,170,1337,hallucinations visual,0,depressive disorder
+19,female,170,1337,worry,2,depressive disorder
+18,female,150,1337,agitation,1,depressive disorder
+19,female,181,1337,tremor,2,depressive disorder
+23,female,181,1337,intoxication,0,depressive disorder
+33,female,178,1337,verbal auditory hallucinations,2,depressive disorder
+21,female,162,1337,energy increased,1,depressive disorder
+25,male,162,1337,difficulty,2,depressive disorder
+23,male,202,1337,nightmare,2,depressive disorder
+22,female,178,1337,unable to concentrate,0,depressive disorder
+19,female,183,1337,homelessness,1,depressive disorder
+23,female,183,759,pain chest,2,myocardial infarction
+26,female,172,759,st segment elevation,0,myocardial infarction
+29,female,192,759,sweat,2,myocardial infarction
+26,female,172,759,sweating increased,1,myocardial infarction
+26,female,170,759,shortness of breath,2,myocardial infarction
+30,male,170,759,st segment depression,0,myocardial infarction
+34,female,170,759,hypokinesia,2,myocardial infarction
+34,female,179,759,angina pectoris,1,myocardial infarction
+26,male,190,759,pressure chest,2,myocardial infarction
+34,male,190,759,t wave inverted,2,myocardial infarction
+24,female,174,759,orthopnea,0,myocardial infarction
+32,male,174,759,rale,1,myocardial infarction
+18,male,162,759,chest tightness,2,myocardial infarction
+24,female,177,759,presence of q wave,0,myocardial infarction
+24,male,178,759,palpitation,2,myocardial infarction
+24,male,178,759,dyspnea,1,myocardial infarction
+28,male,178,759,chest discomfort,2,myocardial infarction
+28,female,178,759,bradycardia,0,myocardial infarction
+25,male,166,759,syncope,2,myocardial infarction
+23,male,168,228,pain,1,obesity
+25,female,167,228,catatonia,2,obesity
+22,male,175,228,snore,2,obesity
+22,male,175,228,pain chest,0,obesity
+26,male,175,228,r wave feature,1,obesity
+28,female,175,228,has religious belief,2,obesity
+28,female,175,228,shortness of breath,0,obesity
+23,male,173,228,fatigue,2,obesity
+23,male,173,228,tired,1,obesity
+22,male,162,228,overweight,2,obesity
+24,male,178,228,systolic murmur,0,obesity
+28,male,178,228,mood depressed,2,obesity
+21,female,179,228,ecchymosis,1,obesity
+29,male,179,597,fever,2,infection urinary tract
+26,male,166,597,dysuria,2,infection urinary tract
+21,male,190,597,hematuria,0,infection urinary tract
+25,female,190,597,renal angle tenderness,1,infection urinary tract
+29,male,190,597,lethargy,2,infection urinary tract
+28,female,170,597,asthenia,0,infection urinary tract
+18,female,168,597,hyponatremia,2,infection urinary tract
+31,female,175,597,hemodynamically stable,1,infection urinary tract
+22,female,177,597,distress respiratory,2,infection urinary tract
+34,female,162,597,difficulty passing urine,0,infection urinary tract
+21,female,160,597,mental status changes,2,infection urinary tract
+21,female,160,597,consciousness clear,1,infection urinary tract
+22,female,173,56,left atrial hypertrophy,2,tachycardia sinus
+22,male,173,56,sweat,2,tachycardia sinus
+23,female,170,56,sweating increased,0,tachycardia sinus
+35,female,162,56,alcohol binge episode,1,tachycardia sinus
+27,male,180,56,pressure chest,2,tachycardia sinus
+31,female,180,56,scar tissue,0,tachycardia sinus
+30,female,162,56,cardiovascular finding,2,tachycardia sinus
+22,male,162,56,cardiovascular event,1,tachycardia sinus
+26,female,162,56,orthostasis,2,tachycardia sinus
+22,male,194,56,shortness of breath,0,tachycardia sinus
+26,male,194,56,t wave inverted,2,tachycardia sinus
+19,female,169,56,vomiting,1,tachycardia sinus
+19,male,190,56,pain abdominal,2,tachycardia sinus
+45,female,162,124,hot flush,2,gout
+45,male,162,124,pain,0,gout
+20,female,163,124,redness,1,gout
+23,male,185,124,swelling,2,gout
+35,female,162,124,erythema,0,gout
+19,female,183,124,emphysematous change,2,gout
+23,male,183,124,sore to touch,1,gout
+19,female,160,124,hypokinesia,2,gout
+19,male,160,124,ascites,0,gout
+19,male,160,124,patient non compliance,2,gout
+19,female,160,104,sore to touch,1,hyperglycemia
+19,female,160,104,pruritus,2,hyperglycemia
+19,male,160,104,feeling strange,2,hyperglycemia
+16,male,160,104,pustule,0,hyperglycemia
+20,male,160,104,cushingoid facies,1,hyperglycemia
+20,female,160,104,cushingoid habitus,2,hyperglycemia
+24,male,160,104,decreased body weight,0,hyperglycemia
+24,male,160,104,mood depressed,2,hyperglycemia
+25,male,165,104,estrogen use,1,hyperglycemia
+25,female,165,104,wheezing,2,hyperglycemia
+25,male,165,104,ascites,0,hyperglycemia
+25,male,165,104,seizure,2,hyperglycemia
+25,male,165,114,fecaluria,1,diverticulosis
+25,male,163,114,constipation,2,diverticulosis
+29,male,163,114,abscess bacterial,2,diverticulosis
+24,female,162,114,heme positive,0,diverticulosis
+36,female,162,114,lightheadedness,1,diverticulosis
+36,female,162,114,diarrhea,2,diverticulosis
+48,male,162,114,haemorrhage,0,diverticulosis
+52,male,162,114,pain,2,diverticulosis
+52,female,162,114,projectile vomiting,1,diverticulosis
+20,female,162,114,pneumatouria,2,diverticulosis
+28,female,162,114,cystic lesion,0,diverticulosis
+22,male,162,114,anorexia,2,diverticulosis
+22,female,184,114,nausea,1,diverticulosis
+30,female,184,114,feeling suicidal,2,diverticulosis
+18,female,153,114,feeling hopeless,2,diverticulosis
+18,female,153,140,orthopnea,0,failure kidney
+18,male,153,140,oliguria,1,failure kidney
+18,female,153,140,slowing of urinary stream,2,failure kidney
+18,female,153,140,extreme exhaustion,0,failure kidney
+15,male,162,140,unresponsiveness,2,failure kidney
+19,female,162,140,hypotension,1,failure kidney
+22,female,176,140,enuresis,2,failure kidney
+26,male,162,140,shortness of breath,0,failure kidney
+26,female,162,140,haemorrhage,2,failure kidney
+26,male,162,140,prostatism,1,failure kidney
+26,female,162,140,no status change,2,failure kidney
+37,male,174,140,bedridden,2,failure kidney
+19,female,162,140,bedridden,0,failure kidney
+23,female,173,140,fatigue,1,failure kidney
+22,female,166,147,hallucinations auditory,2,schizophrenia
+24,male,192,147,hypersomnolence,0,schizophrenia
+27,male,186,147,irritable mood,2,schizophrenia
+30,male,186,147,verbal auditory hallucinations,1,schizophrenia
+34,female,186,147,patient non compliance,2,schizophrenia
+26,female,162,147,agitation,0,schizophrenia
+23,male,181,147,suicidal,2,schizophrenia
+19,female,181,147,worry,1,schizophrenia
+19,female,181,147,hallucinations visual,2,schizophrenia
+17,female,190,147,underweight,2,schizophrenia
+22,male,162,147,underweight,0,schizophrenia
+30,male,170,147,homelessness,1,schizophrenia
+27,female,181,42,systolic murmur,2,decubitus ulcer
+23,female,187,42,frail,0,decubitus ulcer
+34,female,165,42,fever,2,decubitus ulcer
+38,female,165,103,uncoordination,1,encephalopathy
+40,female,165,103,asterixis,2,encephalopathy
+44,male,165,103,haemorrhage,0,encephalopathy
+48,male,165,103,drowsiness,2,encephalopathy
+22,male,182,103,sleepy,1,encephalopathy
+17,male,162,103,absences finding,2,encephalopathy
+17,male,162,103,posturing,2,encephalopathy
+25,male,162,103,aura,0,encephalopathy
+29,female,162,103,tonic seizures,1,encephalopathy
+24,male,173,103,debilitation,2,encephalopathy
+21,female,159,103,consciousness clear,0,encephalopathy
+21,male,159,103,unresponsiveness,2,encephalopathy
+25,male,159,103,thicken,1,encephalopathy
+25,female,159,103,hypokinesia,2,encephalopathy
+30,male,160,45,extreme exhaustion,0,affect labile
+30,female,160,45,sleeplessness,2,affect labile
+20,male,180,45,enuresis,1,affect labile
+24,male,166,45,patient non compliance,2,affect labile
+26,female,180,45,feeling hopeless,2,affect labile
+30,male,180,45,hallucinations visual,0,affect labile
+42,male,180,45,bedridden,1,affect labile
+42,female,180,45,bedridden,2,affect labile
+23,female,177,45,prostatism,0,affect labile
+27,male,177,163,hematuria,2,carcinoma prostate
+31,male,177,163,dysesthesia,1,carcinoma prostate
+21,female,179,163,asthenia,2,carcinoma prostate
+19,male,156,163,polymyalgia,0,carcinoma prostate
+22,male,179,163,passed stones,2,carcinoma prostate
+18,male,162,163,pleuritic pain,1,carcinoma prostate
+30,female,162,163,guaiac positive,2,carcinoma prostate
+30,female,162,163,rale,2,carcinoma prostate
+27,male,160,163,breath sounds decreased,0,carcinoma prostate
+19,female,169,163,urge incontinence,1,carcinoma prostate
+24,female,173,163,dysuria,2,carcinoma prostate
+27,female,162,163,diarrhea,0,carcinoma prostate
+25,male,172,163,vertigo,2,carcinoma prostate
+29,female,172,163,qt interval prolonged,1,carcinoma prostate
+27,female,168,163,ataxia,2,carcinoma prostate
+31,female,168,163,paresis,0,carcinoma prostate
+24,male,159,163,hemianopsia homonymous,2,carcinoma prostate
+35,male,170,163,tumor cell invasion,1,carcinoma prostate
+28,male,159,163,hemodynamically stable,2,carcinoma prostate
+32,male,159,163,mass of body structure,2,carcinoma prostate
+22,male,150,163,rhonchus,0,carcinoma prostate
+26,male,164,163,orthostasis,1,carcinoma prostate
+29,male,163,163,decreased body weight,2,carcinoma prostate
+21,male,175,101,drool,0,Alzheimer's disease
+22,male,169,101,agitation,2,Alzheimer's disease
+26,female,169,101,nightmare,1,Alzheimer's disease
+30,female,169,101,rhonchus,2,Alzheimer's disease
+24,female,162,101,consciousness clear,0,Alzheimer's disease
+32,male,162,101,pin-point pupils,2,Alzheimer's disease
+19,male,182,101,bedridden,1,Alzheimer's disease
+19,male,161,101,bedridden,2,Alzheimer's disease
+19,female,161,101,frail,2,Alzheimer's disease
+19,female,161,101,tremor resting,0,Alzheimer's disease
+19,male,161,101,hyperkalemia,1,Alzheimer's disease
+19,female,161,101,facial paresis,2,Alzheimer's disease
+19,male,161,101,groggy,0,Alzheimer's disease
+24,female,161,101,muscle twitch,2,Alzheimer's disease
+24,male,161,101,wheelchair bound,1,Alzheimer's disease
+24,male,161,101,tremor,2,Alzheimer's disease
+24,female,161,101,cough,0,Alzheimer's disease
+24,female,174,101,fever,2,Alzheimer's disease
+23,male,182,165,paraparesis,1,incontinence
+20,female,176,165,seizure,2,incontinence
+17,female,170,165,asthenia,2,incontinence
+22,male,190,165,urge incontinence,0,incontinence
+22,female,190,165,unconscious state,1,incontinence
+22,male,190,165,aura,2,incontinence
+22,female,190,165,moody,0,incontinence
+26,female,175,165,fear of falling,2,incontinence
+26,female,175,165,tremor,1,incontinence
+19,male,169,165,spasm,2,incontinence
+17,male,166,165,unhappy,0,incontinence
+17,female,166,165,syncope,2,incontinence
+17,female,166,165,fall,1,incontinence
+25,male,168,165,stiffness,2,incontinence
+30,male,197,165,unresponsiveness,2,incontinence
+30,male,197,68,cyanosis,0,hyperbilirubinemia
+25,female,162,68,tachypnea,1,hyperbilirubinemia
+25,female,162,68,para 1,2,hyperbilirubinemia
+25,male,162,68,bradycardia,0,hyperbilirubinemia
+27,female,162,68,breech presentation,2,hyperbilirubinemia
+27,female,162,68,cushingoid facies,1,hyperbilirubinemia
+27,male,210,68,cushingoid habitus,2,hyperbilirubinemia
+28,male,170,68,cough,0,hyperbilirubinemia
+28,female,170,68,myalgia,2,hyperbilirubinemia
+28,female,170,165,orthopnea,1,paroxysmal dyspnea
+28,male,170,165,shortness of breath,2,paroxysmal dyspnea
+32,female,170,165,dyspnea on exertion,2,paroxysmal dyspnea
+32,male,170,165,jugular venous distention,0,paroxysmal dyspnea
+24,male,175,165,rale,1,paroxysmal dyspnea
+25,male,186,165,pain chest,2,paroxysmal dyspnea
+33,male,186,165,palpitation,0,paroxysmal dyspnea
+41,male,186,165,sweat,2,paroxysmal dyspnea
+24,female,162,165,sweating increased,1,paroxysmal dyspnea
+27,female,188,165,weight gain,2,paroxysmal dyspnea
+29,male,205,165,cough,0,paroxysmal dyspnea
+26,male,162,165,dyspnea,2,paroxysmal dyspnea
+20,male,168,241,feeling suicidal,1,bipolar disorder
+30,male,181,241,energy increased,2,bipolar disorder
+27,female,162,241,suicidal,2,bipolar disorder
+30,female,182,241,irritable mood,0,bipolar disorder
+24,female,162,241,agitation,1,bipolar disorder
+28,male,162,241,has religious belief,2,bipolar disorder
+22,male,187,241,disturbed family,0,bipolar disorder
+30,female,187,241,hallucinations auditory,2,bipolar disorder
+22,female,162,241,verbal auditory hallucinations,1,bipolar disorder
+38,male,162,241,weepiness,2,bipolar disorder
+38,female,162,241,behavior hyperactive,0,bipolar disorder
+42,female,162,241,catatonia,2,bipolar disorder
+42,male,162,241,feeling hopeless,1,bipolar disorder
+24,female,162,241,worry,2,bipolar disorder
+28,male,162,241,sleeplessness,2,bipolar disorder
+21,female,170,241,hypersomnia,0,bipolar disorder
+20,male,171,241,difficulty,1,bipolar disorder
+34,female,162,241,hallucinations visual,2,bipolar disorder
+21,female,190,241,hyperhidrosis disorder,0,bipolar disorder
+25,female,190,241,mydriasis,2,bipolar disorder
+22,female,170,241,extrapyramidal sign,1,bipolar disorder
+23,female,175,241,loose associations,2,bipolar disorder
+22,male,178,241,intoxication,0,bipolar disorder
+34,female,162,241,motor retardation,2,bipolar disorder
+31,male,180,241,homelessness,1,bipolar disorder
+28,female,183,241,blackout,2,bipolar disorder
+21,female,188,241,tremor,2,bipolar disorder
+21,female,188,241,exhaustion,0,bipolar disorder
+25,female,188,133,ascites,1,hepatitis
+25,male,188,133,spontaneous rupture of membranes,2,hepatitis
+21,male,162,133,tachypnea,0,hepatitis
+22,male,162,133,pain abdominal,2,hepatitis
+26,male,178,133,pruritus,1,hepatitis
+22,male,162,133,anorexia,2,hepatitis
+22,female,162,133,transaminitis,0,hepatitis
+23,male,162,133,projectile vomiting,2,hepatitis
+33,female,182,133,chill,1,hepatitis
+34,male,162,133,distress respiratory,2,hepatitis
+22,male,193,133,fever,2,hepatitis
+24,male,174,133,vomiting,0,hepatitis
+25,female,186,71,pericardial friction rub,1,pericardial effusion body substance
+19,female,162,71,dyspnea,2,pericardial effusion body substance
+19,male,162,71,shortness of breath,0,pericardial effusion body substance
+19,male,162,71,hemodynamically stable,2,pericardial effusion body substance
+19,female,162,71,cardiomegaly,1,pericardial effusion body substance
+19,male,162,71,hypotension,2,pericardial effusion body substance
+19,male,162,71,sputum purulent,0,pericardial effusion body substance
+19,female,162,71,facial paresis,2,pericardial effusion body substance
+19,female,162,71,pain,1,pericardial effusion body substance
+21,male,192,71,oliguria,2,pericardial effusion body substance
+21,male,192,71,blackout,2,pericardial effusion body substance
+25,male,192,71,intoxication,0,pericardial effusion body substance
+34,female,162,57,flatulence,1,adhesion
+17,male,175,57,pain,2,adhesion
+17,male,175,57,large-for-dates fetus,0,adhesion
+21,female,175,57,para 1,2,adhesion
+21,female,175,57,vomiting,1,adhesion
+21,male,175,57,lung nodule,2,adhesion
+19,male,170,57,breech presentation,0,adhesion
+33,male,178,57,shortness of breath,2,adhesion
+19,female,167,57,decreased body weight,1,adhesion
+19,female,167,57,immobile,2,adhesion
+23,male,167,57,unsteady gait,2,adhesion
+23,female,167,57,hallucinations visual,0,adhesion
+27,female,167,57,feeling suicidal,1,adhesion
+31,male,167,61,vomiting,2,biliary calculus
+21,male,180,61,nausea,0,biliary calculus
+25,male,191,61,pain abdominal,2,biliary calculus
+29,male,191,61,pain,1,biliary calculus
+33,female,191,61,cushingoid facies,2,biliary calculus
+22,female,162,61,cushingoid habitus,0,biliary calculus
+29,male,178,61,ascites,2,biliary calculus
+22,female,179,61,thicken,1,biliary calculus
+22,male,179,61,sore to touch,2,biliary calculus
+23,female,173,61,diarrhea,2,biliary calculus
+23,male,173,61,apyrexial,0,biliary calculus
+20,male,183,61,palpitation,1,biliary calculus
+20,female,183,71,pleuritic pain,2,endocarditis
+20,female,183,71,thicken,0,endocarditis
+20,male,183,71,myalgia,2,endocarditis
+24,female,183,71,apyrexial,1,endocarditis
+24,female,183,71,night sweat,2,endocarditis
+24,male,183,71,flare,0,endocarditis
+21,female,162,71,shortness of breath,2,endocarditis
+21,female,162,71,orthopnea,1,endocarditis
+27,female,162,71,abscess bacterial,2,endocarditis
+21,female,162,71,hypotension,2,endocarditis
+25,male,162,71,cough,0,endocarditis
+19,male,183,71,metastatic lesion,1,endocarditis
+23,male,183,71,breath sounds decreased,2,endocarditis
+26,male,162,71,decreased body weight,0,endocarditis
+24,female,190,71,pulsus paradoxus,2,endocarditis
+28,female,190,71,hypokinesia,1,endocarditis
+24,female,187,350,fever,2,acquired immuno-deficiency syndrome
+22,male,172,350,night sweat,0,acquired immuno-deficiency syndrome
+28,male,180,350,spontaneous rupture of membranes,2,acquired immuno-deficiency syndrome
+28,female,180,350,cough,1,acquired immuno-deficiency syndrome
+28,male,180,350,,2,acquired immuno-deficiency syndrome
+33,female,180,350,decreased body weight,2,acquired immuno-deficiency syndrome
+33,male,180,350,chill,0,acquired immuno-deficiency syndrome
+31,female,162,350,diarrhea,1,acquired immuno-deficiency syndrome
+24,male,185,350,pleuritic pain,2,acquired immuno-deficiency syndrome
+21,female,193,350,patient non compliance,0,acquired immuno-deficiency syndrome
+17,male,176,350,tachypnea,2,acquired immuno-deficiency syndrome
+17,male,176,350,productive cough,1,acquired immuno-deficiency syndrome
+21,male,176,350,muscle hypotonia,2,acquired immuno-deficiency syndrome
+21,female,176,350,hypotonic,0,acquired immuno-deficiency syndrome
+25,female,176,350,feeling suicidal,2,acquired immuno-deficiency syndrome
+25,male,176,68,dyspnea,1,pneumothorax
+28,male,182,68,cardiovascular finding,2,pneumothorax
+17,female,180,68,cardiovascular event,2,pneumothorax
+21,male,180,68,haemoptysis,0,pneumothorax
+25,male,180,68,cough,1,pneumothorax
+22,male,181,68,hypercapnia,2,pneumothorax
+22,male,181,68,soft tissue swelling,0,pneumothorax
+22,male,181,68,prostatism,2,pneumothorax
+22,male,181,68,agitation,1,pneumothorax
+26,female,181,885,dysarthria,2,accident cerebrovascular
+26,male,181,885,asthenia,0,accident cerebrovascular
+26,male,181,885,speech slurred,2,accident cerebrovascular
+26,male,181,885,facial paresis,1,accident cerebrovascular
+26,male,181,885,hemiplegia,2,accident cerebrovascular
+22,male,162,885,unresponsiveness,2,accident cerebrovascular
+16,male,167,885,seizure,0,accident cerebrovascular
+31,male,175,885,numbness,1,accident cerebrovascular
+23,female,181,408,seizure,2,confusion
+27,female,181,408,enuresis,0,confusion
+24,female,180,408,lethargy,2,confusion
+24,male,176,408,speech slurred,1,confusion
+24,male,176,408,fall,2,confusion
+30,male,164,408,consciousness clear,0,confusion
+25,male,198,408,mental status changes,2,confusion
+34,male,180,408,asterixis,1,confusion
+23,male,173,408,unconscious state,2,confusion
+21,female,172,408,agitation,2,confusion
+21,female,172,408,muscle twitch,0,confusion
+24,female,171,408,asthenia,1,confusion
+23,female,167,408,sleepy,2,confusion
+23,female,167,408,dizziness,0,confusion
+23,male,167,408,headache,2,confusion
+27,male,167,408,dysarthria,1,confusion
+29,male,180,408,lightheadedness,2,confusion
+29,male,180,408,tremor,0,confusion
+27,female,182,408,hyponatremia,2,confusion
+27,female,182,408,unresponsiveness,1,confusion
+19,male,163,99,diarrhea,2,candidiasis
+32,male,180,99,throat sore,2,candidiasis
+22,male,183,99,decreased body weight,0,candidiasis
+25,female,183,99,chill,1,candidiasis
+31,male,186,99,headache,2,candidiasis
+20,female,176,99,abdominal tenderness,0,candidiasis
+20,male,176,99,patient non compliance,2,candidiasis
+24,female,176,99,photophobia,1,candidiasis
+28,male,176,99,night sweat,2,candidiasis
+21,female,183,99,painful swallowing,0,candidiasis
+25,female,183,99,poor dentition,2,candidiasis
+26,female,174,99,transaminitis,1,candidiasis
+19,female,187,99,non-productive cough,2,candidiasis
+16,male,162,99,adverse reaction,2,candidiasis
+22,female,172,99,adverse effect,0,candidiasis
+26,female,184,99,abdominal bloating,1,candidiasis
+26,female,184,390,worry,2,anxiety state
+21,female,183,390,feeling suicidal,0,anxiety state
+21,female,183,390,suicidal,2,anxiety state
+27,female,183,390,sleeplessness,1,anxiety state
+27,male,183,390,feeling hopeless,2,anxiety state
+31,male,183,390,irritable mood,0,anxiety state
+31,male,183,390,tremor,2,anxiety state
+22,male,183,390,blackout,1,anxiety state
+20,male,160,390,weepiness,2,anxiety state
+26,male,185,390,has religious belief,2,anxiety state
+20,male,159,390,nervousness,0,anxiety state
+20,male,159,390,hallucinations visual,1,anxiety state
+20,male,159,390,formication,2,anxiety state
+20,male,159,390,difficulty,0,anxiety state
+20,female,159,390,pain chest,2,anxiety state
+20,male,159,390,patient non compliance,1,anxiety state
+20,female,159,390,agitation,2,anxiety state
+22,male,162,390,palpitation,0,anxiety state
+22,female,162,390,hallucinations auditory,2,anxiety state
+22,male,162,390,mood depressed,1,anxiety state
+40,female,188,390,hot flush,2,anxiety state
+18,female,176,390,pain,2,anxiety state
+23,female,200,390,consciousness clear,0,anxiety state
+24,female,177,390,nightmare,1,anxiety state
+15,male,177,218,ascites,2,cirrhosis
+15,female,177,218,fall,0,cirrhosis
+19,male,177,218,splenomegaly,2,cirrhosis
+19,male,177,218,pruritus,1,cirrhosis
+19,female,177,218,pain abdominal,2,cirrhosis
+24,female,174,218,tumor cell invasion,0,cirrhosis
+34,male,164,218,distended abdomen,2,cirrhosis
+38,male,164,218,lesion,1,cirrhosis
+22,male,162,218,hemodynamically stable,2,cirrhosis
+23,female,198,218,guaiac positive,2,cirrhosis
+23,female,162,218,sore to touch,0,cirrhosis
+23,female,162,218,bleeding of vagina,1,cirrhosis
+21,female,180,61,hypoproteinemia,2,pancytopenia
+26,male,164,61,fatigue,0,pancytopenia
+20,male,188,61,haemorrhage,2,pancytopenia
+28,female,188,61,fatigability,1,pancytopenia
+26,male,162,61,cushingoid facies,2,pancytopenia
+26,female,162,61,cushingoid habitus,0,pancytopenia
+26,male,162,61,stool color yellow,2,pancytopenia
+26,male,162,61,colic abdominal,1,pancytopenia
+26,female,162,99,diarrhea,2,oral candidiasis
+26,male,162,99,throat sore,2,oral candidiasis
+26,male,162,99,decreased body weight,0,oral candidiasis
+22,female,168,99,chill,1,oral candidiasis
+23,male,180,99,headache,2,oral candidiasis
+27,female,180,99,abdominal tenderness,0,oral candidiasis
+31,female,180,99,patient non compliance,2,oral candidiasis
+35,male,180,99,photophobia,1,oral candidiasis
+21,female,168,99,night sweat,2,oral candidiasis
+24,male,180,99,painful swallowing,0,oral candidiasis
+31,female,178,99,poor dentition,2,oral candidiasis
+26,male,178,99,transaminitis,1,oral candidiasis
+26,male,178,99,non-productive cough,2,oral candidiasis
+25,male,179,99,adverse reaction,2,oral candidiasis
+25,female,160,99,adverse effect,0,oral candidiasis
+27,male,173,99,abdominal bloating,1,oral candidiasis
+27,female,180,145,pain abdominal,2,diverticulitis
+19,female,162,145,abscess bacterial,0,diverticulitis
+19,female,162,145,dullness,2,diverticulitis
+28,male,168,145,red blotches,1,diverticulitis
+32,male,168,145,diarrhea,2,diverticulitis
+22,male,162,145,sore to touch,0,diverticulitis
+26,male,162,145,dysuria,2,diverticulitis
+33,male,180,145,pain,1,diverticulitis
+28,female,172,145,vomiting,2,diverticulitis
+34,female,162,145,sinus rhythm,2,diverticulitis
+16,male,178,145,colic abdominal,0,diverticulitis
+19,male,178,145,apyrexial,1,diverticulitis
+23,male,165,145,abdominal tenderness,2,diverticulitis
+18,female,172,145,fever,0,diverticulitis
+22,male,172,145,unsteady gait,2,diverticulitis
+19,male,157,145,thicken,1,diverticulitis
+22,male,182,145,urgency of micturition,2,diverticulitis
+24,female,170,145,anorexia,0,diverticulitis
+17,female,150,145,monoclonal,2,diverticulitis
+17,female,150,145,constipation,1,diverticulitis
+20,female,190,76,shortness of breath,2,spasm bronchial
+21,male,182,76,scar tissue,2,spasm bronchial
+25,male,182,76,apyrexial,0,spasm bronchial
+23,male,162,76,no known drug allergies,1,spasm bronchial
+20,male,178,76,pain,2,spasm bronchial
+18,male,170,76,productive cough,0,spasm bronchial
+22,male,148,76,throat sore,2,spasm bronchial
+22,male,148,76,dyspnea,1,spasm bronchial
+22,female,148,76,chest tightness,2,spasm bronchial
+22,female,148,76,hypoxemia,0,spasm bronchial
+22,male,148,76,tachypnea,2,spasm bronchial
+22,male,148,76,sensory discomfort,1,spasm bronchial
+26,male,148,76,fever,2,spasm bronchial
+26,male,148,76,vomiting,2,spasm bronchial
+26,male,148,76,rhonchus,0,spasm bronchial
+26,female,148,76,hemiplegia,1,spasm bronchial
+26,male,148,76,fremitus,2,spasm bronchial
+26,female,148,143,pain abdominal,0,ulcer peptic
+23,female,170,143,paraparesis,2,ulcer peptic
+28,female,183,143,nausea,1,ulcer peptic
+22,female,180,143,vomiting,2,ulcer peptic
+23,male,177,143,polymyalgia,0,ulcer peptic
+25,female,163,143,out of breath,2,ulcer peptic
+25,female,163,143,pain chest,1,ulcer peptic
+27,female,163,143,hemiplegia,2,ulcer peptic
+28,male,161,143,gurgle,2,ulcer peptic
+21,male,189,143,hunger,0,ulcer peptic
+21,male,189,143,apyrexial,1,ulcer peptic
+25,male,189,143,nervousness,2,ulcer peptic
+25,female,189,1337,feeling suicidal,0,depression mental
+20,female,170,1337,suicidal,2,depression mental
+25,female,168,1337,hallucinations auditory,1,depression mental
+29,male,168,1337,feeling hopeless,2,depression mental
+14,male,181,1337,weepiness,0,depression mental
+19,female,185,1337,sleeplessness,2,depression mental
+27,male,175,1337,motor retardation,1,depression mental
+31,female,175,1337,irritable mood,2,depression mental
+34,female,170,1337,blackout,2,depression mental
+21,male,162,1337,mood depressed,0,depression mental
+21,male,162,1337,hallucinations visual,1,depression mental
+25,male,162,1337,worry,2,depression mental
+25,male,162,1337,agitation,0,depression mental
+21,male,175,1337,tremor,2,depression mental
+25,female,175,1337,intoxication,1,depression mental
+16,female,150,1337,verbal auditory hallucinations,2,depression mental
+16,male,150,1337,energy increased,0,depression mental
+16,female,150,1337,difficulty,2,depression mental
+16,female,150,1337,nightmare,1,depression mental
+22,female,194,1337,unable to concentrate,2,depression mental
+26,female,194,1337,homelessness,2,depression mental
+24,male,194,80,behavior showing increased motor activity,0,emphysema pulmonary
+26,female,162,80,scar tissue,1,emphysema pulmonary
+26,male,162,80,dyspnea on exertion,2,emphysema pulmonary
+33,female,162,80,coordination abnormal,0,emphysema pulmonary
+24,female,170,80,myalgia,2,emphysema pulmonary
+28,male,170,80,hypercapnia,1,emphysema pulmonary
+20,male,176,80,clammy skin,2,emphysema pulmonary
+20,female,176,80,has religious belief,0,emphysema pulmonary
+24,male,176,80,room spinning,2,emphysema pulmonary
+24,female,176,80,moan,1,emphysema pulmonary
+24,female,176,80,night sweat,2,emphysema pulmonary
+24,female,176,80,cachexia,2,emphysema pulmonary
+24,male,176,80,symptom aggravating factors,0,emphysema pulmonary
+26,female,176,80,dyspnea,1,emphysema pulmonary
+26,male,176,80,rale,2,emphysema pulmonary
+26,female,176,80,flushing,0,emphysema pulmonary
+26,female,176,80,painful swallowing,2,emphysema pulmonary
+30,male,176,80,arthralgia,1,emphysema pulmonary
+30,male,176,80,choke,2,emphysema pulmonary
+30,male,176,80,tenesmus,0,emphysema pulmonary
+30,male,176,80,constipation,2,emphysema pulmonary
+34,female,176,122,unresponsiveness,1,hypoglycemia
+34,male,176,122,"hypothermia, natural",2,hypoglycemia
+27,male,162,122,incoherent,2,hypoglycemia
+31,female,162,122,qt interval prolonged,0,hypoglycemia
+31,female,162,122,lameness,1,hypoglycemia
+31,female,190,122,claudication,2,hypoglycemia
+21,female,162,122,unconscious state,0,hypoglycemia
+21,female,162,122,clammy skin,2,hypoglycemia
+17,female,162,122,polyuria,1,hypoglycemia
+23,male,167,122,distress respiratory,2,hypoglycemia
+39,female,162,122,hypotension,0,hypoglycemia
+23,female,190,67,intoxication,2,dependence
+22,female,160,67,tremor,1,dependence
+22,female,160,67,agitation,2,dependence
+19,male,162,67,suicidal,2,dependence
+21,male,176,67,homelessness,0,dependence
+22,female,162,67,prostatism,1,dependence
+22,female,171,67,lethargy,2,dependence
+22,female,171,67,seizure,0,dependence
+22,male,175,67,muscle twitch,2,dependence
+26,female,175,67,stuffy nose,1,dependence
+18,male,182,67,feeling hopeless,2,dependence
+18,female,182,67,heavy legs,0,dependence
+22,male,179,67,rale,2,dependence
+21,female,166,142,pain,1,osteomyelitis
+23,female,170,142,redness,2,osteomyelitis
+19,male,158,142,prostate tender,2,osteomyelitis
+22,male,165,142,fever,0,osteomyelitis
+21,female,178,142,difficulty passing urine,1,osteomyelitis
+25,female,178,142,sore to touch,2,osteomyelitis
+25,female,165,142,swelling,0,osteomyelitis
+23,female,175,142,apyrexial,2,osteomyelitis
+22,male,162,142,erythema,1,osteomyelitis
+25,female,169,142,abscess bacterial,2,osteomyelitis
+28,female,178,142,pain foot,0,osteomyelitis
+20,female,164,142,urinary hesitation,2,osteomyelitis
+22,female,186,80,haemorrhage,1,hemorrhoids
+26,female,186,80,bowel sounds decreased,2,hemorrhoids
+34,male,186,80,decreased stool caliber,2,hemorrhoids
+29,male,208,80,nausea and vomiting,0,hemorrhoids
+29,female,162,80,hunger,1,hemorrhoids
+28,female,180,80,diarrhea,2,hemorrhoids
+25,female,161,80,dizziness,0,hemorrhoids
+23,female,163,80,hyponatremia,2,hemorrhoids
+18,female,181,80,clonus,1,hemorrhoids
+24,female,176,80,pain,2,hemorrhoids
+16,female,168,80,achalasia,0,hemorrhoids
+16,female,168,80,burning sensation,2,hemorrhoids
+25,female,167,80,guaiac positive,1,hemorrhoids
+29,female,165,80,numbness of hand,2,hemorrhoids
+23,male,174,80,wheezing,2,hemorrhoids
+27,male,174,80,cough,0,hemorrhoids
+31,female,174,82,mass of body structure,1,primary carcinoma of the liver cells
+25,male,188,82,splenomegaly,2,primary carcinoma of the liver cells
+33,male,188,82,lesion,0,primary carcinoma of the liver cells
+34,male,162,82,paresis,2,primary carcinoma of the liver cells
+55,male,162,82,tumor cell invasion,1,primary carcinoma of the liver cells
+41,female,182,82,room spinning,2,primary carcinoma of the liver cells
+41,male,182,82,haemorrhage,0,primary carcinoma of the liver cells
+23,female,183,82,thicken,2,primary carcinoma of the liver cells
+23,male,183,82,indifferent mood,1,primary carcinoma of the liver cells
+25,female,168,82,cachexia,2,primary carcinoma of the liver cells
+30,male,168,82,"hypothermia, natural",2,primary carcinoma of the liver cells
+30,male,168,82,pain abdominal,0,primary carcinoma of the liver cells
+24,male,167,82,hepatomegaly,1,primary carcinoma of the liver cells
+19,male,168,82,hematocrit decreased,2,primary carcinoma of the liver cells
+23,female,168,82,stupor,0,primary carcinoma of the liver cells
+19,female,190,82,decreased body weight,2,primary carcinoma of the liver cells
+23,male,190,82,shortness of breath,1,primary carcinoma of the liver cells
+28,male,191,82,cough,2,primary carcinoma of the liver cells
+32,male,191,74,fever,0,pyelonephritis
+17,female,176,74,pain,2,pyelonephritis
+20,female,177,74,urgency of micturition,1,pyelonephritis
+23,female,184,74,hematuria,2,pyelonephritis
+27,male,184,74,vomiting,2,pyelonephritis
+23,male,162,74,chill,0,pyelonephritis
+28,female,171,74,diarrhea,1,pyelonephritis
+28,male,171,74,nausea,2,pyelonephritis
+32,female,171,74,pain abdominal,0,pyelonephritis
+32,male,171,74,myalgia,2,pyelonephritis
+27,male,172,74,fever,1,pyelonephritis
+31,male,172,74,chill,2,pyelonephritis
+20,male,159,165,vomiting,0,pancreatitis
+20,male,159,165,pain abdominal,2,pancreatitis
+28,female,162,165,nausea,1,pancreatitis
+25,female,166,165,pain,2,pancreatitis
+18,male,167,165,diarrhea,2,pancreatitis
+18,female,167,165,stool color yellow,0,pancreatitis
+24,male,179,165,rigor - temperature-associated observation,1,pancreatitis
+34,female,162,165,apyrexial,2,pancreatitis
+22,female,162,165,sore to touch,0,pancreatitis
+27,male,179,61,vomiting,2,cholelithiasis
+22,female,162,61,nausea,1,cholelithiasis
+26,male,173,61,pain abdominal,2,cholelithiasis
+24,male,191,61,pain,0,cholelithiasis
+20,female,184,61,cushingoid facies,2,cholelithiasis
+20,female,184,61,cushingoid habitus,1,cholelithiasis
+24,male,184,61,ascites,2,cholelithiasis
+24,male,184,61,thicken,2,cholelithiasis
+24,female,184,61,sore to touch,0,cholelithiasis
+28,male,184,61,diarrhea,1,cholelithiasis
+28,female,184,61,apyrexial,2,cholelithiasis
+28,male,184,61,palpitation,0,cholelithiasis
+26,male,180,283,shortness of breath,2,cardiomyopathy
+27,male,162,283,orthopnea,1,cardiomyopathy
+27,male,162,283,hypokinesia,2,cardiomyopathy
+22,female,190,283,jugular venous distention,0,cardiomyopathy
+26,female,190,283,palpitation,2,cardiomyopathy
+26,female,190,283,pain chest,1,cardiomyopathy
+28,female,190,283,syncope,2,cardiomyopathy
+28,female,190,283,yellow sputum,2,cardiomyopathy
+24,male,200,283,rale,0,cardiomyopathy
+28,female,200,283,dyspnea,1,cardiomyopathy
+32,female,200,283,dyspnea on exertion,2,cardiomyopathy
+24,male,180,283,left atrial hypertrophy,0,cardiomyopathy
+19,female,162,283,fatigue,2,cardiomyopathy
+23,female,162,283,weight gain,1,cardiomyopathy
+18,female,169,283,patient non compliance,2,cardiomyopathy
+18,male,169,113,yellow sputum,0,Pneumocystis carinii pneumonia
+22,female,175,113,cachexia,2,Pneumocystis carinii pneumonia
+28,male,162,113,chill,1,Pneumocystis carinii pneumonia
+26,female,180,113,decreased body weight,2,Pneumocystis carinii pneumonia
+30,male,180,113,productive cough,2,Pneumocystis carinii pneumonia
+26,male,173,113,myalgia,0,Pneumocystis carinii pneumonia
+26,female,173,113,diarrhea,1,Pneumocystis carinii pneumonia
+30,male,173,113,neck stiffness,2,Pneumocystis carinii pneumonia
+30,male,173,113,hacking cough,0,Pneumocystis carinii pneumonia
+29,male,162,113,dyspareunia,2,Pneumocystis carinii pneumonia
+29,male,160,113,hypokalemia,1,Pneumocystis carinii pneumonia
+20,female,168,113,dyspnea on exertion,2,Pneumocystis carinii pneumonia
+22,female,185,113,poor dentition,0,Pneumocystis carinii pneumonia
+20,male,180,113,transaminitis,2,Pneumocystis carinii pneumonia
+20,female,180,113,non-productive cough,1,Pneumocystis carinii pneumonia
+27,female,164,113,headache,2,Pneumocystis carinii pneumonia
+31,female,164,113,floppy,2,Pneumocystis carinii pneumonia
+20,female,162,113,spontaneous rupture of membranes,0,Pneumocystis carinii pneumonia
+20,male,162,94,lesion,1,carcinoma colon
+20,male,162,94,prostatism,2,carcinoma colon
+24,female,172,94,constipation,0,carcinoma colon
+22,female,162,94,general discomfort,2,carcinoma colon
+22,female,162,94,diarrhea,1,carcinoma colon
+23,male,188,94,pain abdominal,2,carcinoma colon
+20,male,188,94,urinary hesitation,0,carcinoma colon
+16,female,190,94,dizzy spells,2,carcinoma colon
+25,male,182,94,shooting pain,1,carcinoma colon
+23,male,162,94,bradycardia,2,carcinoma colon
+27,male,162,94,vomiting,2,carcinoma colon
+26,male,162,94,systolic ejection murmur,0,carcinoma colon
+26,male,162,94,nausea,1,carcinoma colon
+20,male,184,94,hyperemesis,2,carcinoma colon
+29,female,188,94,polydypsia,0,carcinoma colon
+22,male,177,161,urgency of micturition,2,edema pulmonary
+26,female,177,161,shortness of breath,1,edema pulmonary
+21,male,178,161,rale,2,edema pulmonary
+16,male,162,161,tachypnea,0,edema pulmonary
+16,female,162,161,orthopnea,2,edema pulmonary
+30,male,162,161,Heberden's node,1,edema pulmonary
+30,male,162,161,jugular venous distention,2,edema pulmonary
+34,female,162,161,dyspnea,2,edema pulmonary
+34,female,162,161,sweat,0,edema pulmonary
+32,male,162,161,sweating increased,1,edema pulmonary
+20,female,168,161,patient non compliance,2,edema pulmonary
+20,male,168,161,chest discomfort,0,edema pulmonary
+20,male,168,161,hyperkalemia,2,edema pulmonary
+24,female,168,161,sinus rhythm,1,edema pulmonary
+21,male,188,161,pain chest,2,edema pulmonary
+25,female,188,161,hypotension,0,edema pulmonary
+29,female,188,161,wheezing,2,edema pulmonary
+33,male,188,152,mass in breast,1,carcinoma breast
+37,female,188,152,mass of body structure,2,carcinoma breast
+18,male,192,152,paresthesia,2,carcinoma breast
+22,male,192,152,retropulsion,0,carcinoma breast
+24,female,173,152,erythema,1,carcinoma breast
+29,male,162,152,difficulty,2,carcinoma breast
+25,male,162,152,lesion,0,carcinoma breast
+25,male,208,152,estrogen use,2,carcinoma breast
+23,female,177,152,burning sensation,1,carcinoma breast
+23,male,162,152,dyspnea,2,carcinoma breast
+23,male,162,152,swelling,0,carcinoma breast
+19,female,156,152,formication,2,carcinoma breast
+23,male,156,171,dysarthria,1,hemiparesis
+22,female,179,171,paresis,2,hemiparesis
+29,male,162,171,asthenia,2,hemiparesis
+25,female,165,171,aphagia,0,hemiparesis
+21,female,172,171,seizure,1,hemiparesis
+26,female,168,171,speech slurred,2,hemiparesis
+23,male,160,171,focal seizures,0,hemiparesis
+28,female,156,171,hemiplegia,2,hemiparesis
+21,female,187,171,abnormal sensation,1,hemiparesis
+21,female,187,171,unresponsiveness,2,hemiparesis
+23,female,186,171,stupor,0,hemiparesis
+27,male,186,171,drowsiness,2,hemiparesis
+25,male,189,171,sleepy,1,hemiparesis
+34,male,162,171,fremitus,2,hemiparesis
+34,male,162,171,Stahli's line,2,hemiparesis
+20,male,162,171,stinging sensation,0,hemiparesis
+20,female,202,171,paralyse,1,hemiparesis
+22,male,190,171,clonus,2,hemiparesis
+21,female,162,171,facial paresis,0,hemiparesis
+23,female,180,186,shortness of breath,2,mitral valve insufficiency
+27,female,178,186,dyspnea on exertion,1,mitral valve insufficiency
+15,female,162,186,asymptomatic,2,mitral valve insufficiency
+15,male,162,186,hypokinesia,0,mitral valve insufficiency
+15,female,162,186,dyspnea,2,mitral valve insufficiency
+25,female,187,186,syncope,1,mitral valve insufficiency
+25,female,187,186,thicken,2,mitral valve insufficiency
+29,male,187,186,left atrial hypertrophy,2,mitral valve insufficiency
+34,male,162,186,palpitation,0,mitral valve insufficiency
+34,male,162,186,fatigue,1,mitral valve insufficiency
+34,male,162,186,vomiting,2,mitral valve insufficiency
+34,female,162,186,pain,0,mitral valve insufficiency
+27,female,172,186,cardiomegaly,2,mitral valve insufficiency
+23,female,162,186,chest discomfort,1,mitral valve insufficiency
+24,male,182,268,shortness of breath,2,peripheral vascular disease
+24,male,182,268,rest pain,0,peripheral vascular disease
+24,female,182,268,angina pectoris,2,peripheral vascular disease
+33,male,182,268,unresponsiveness,1,peripheral vascular disease
+20,female,183,268,hyperkalemia,2,peripheral vascular disease
+24,female,183,268,sinus rhythm,2,peripheral vascular disease
+24,male,175,268,labored breathing,0,peripheral vascular disease
+19,male,173,268,dyspnea,1,peripheral vascular disease
+19,male,173,268,sore to touch,2,peripheral vascular disease
+23,male,173,268,anorexia,0,peripheral vascular disease
+23,male,173,268,sleepy,2,peripheral vascular disease
+30,female,162,92,drowsiness,1,tonic-clonic seizures
+30,female,162,92,lip smacking,2,tonic-clonic seizures
+26,male,162,92,myoclonus,0,tonic-clonic seizures
+49,female,162,92,tremor,2,tonic-clonic seizures
+24,female,162,92,phonophobia,1,tonic-clonic seizures
+20,female,162,92,rolling of eyes,2,tonic-clonic seizures
+30,female,175,92,sleepy,2,tonic-clonic seizures
+35,male,175,92,hirsutism,0,tonic-clonic seizures
+35,female,175,92,moody,1,tonic-clonic seizures
+38,male,175,92,muscle twitch,2,tonic-clonic seizures
+38,female,175,92,unresponsiveness,0,tonic-clonic seizures
+18,female,169,92,headache,2,tonic-clonic seizures
+30,male,154,92,ambidexterity,1,tonic-clonic seizures
+32,male,175,92,absences finding,2,tonic-clonic seizures
+32,female,175,92,spasm,0,tonic-clonic seizures
+31,male,175,92,decreased body weight,2,tonic-clonic seizures
+30,female,187,92,tumor cell invasion,1,tonic-clonic seizures
+22,female,179,71,pericardial friction rub,2,effusion pericardial
+21,female,173,71,dyspnea,2,effusion pericardial
+25,male,173,71,shortness of breath,0,effusion pericardial
+26,female,190,71,hemodynamically stable,1,effusion pericardial
+26,male,190,71,cardiomegaly,2,effusion pericardial
+29,female,184,71,hypotension,0,effusion pericardial
+33,female,184,71,sputum purulent,2,effusion pericardial
+20,male,187,71,facial paresis,1,effusion pericardial
+20,male,187,71,pain,2,effusion pericardial
+20,male,187,71,oliguria,0,effusion pericardial
+18,male,160,71,blackout,2,effusion pericardial
+18,female,160,71,intoxication,1,effusion pericardial
+47,male,162,123,ecchymosis,2,thrombocytopaenia
+22,male,173,123,monocytosis,2,thrombocytopaenia
+22,female,173,123,posterior rhinorrhea,0,thrombocytopaenia
+22,female,173,123,haemorrhage,1,thrombocytopaenia
+24,female,173,123,tachypnea,2,thrombocytopaenia
+24,female,173,123,fever,0,thrombocytopaenia
+24,female,173,123,pruritus,2,thrombocytopaenia
+28,female,173,123,hypotension,1,thrombocytopaenia
+28,male,173,123,fatigue,2,thrombocytopaenia
+28,female,173,166,mass of body structure,0,adenocarcinoma
+18,female,162,166,lesion,2,adenocarcinoma
+18,female,162,166,decreased body weight,1,adenocarcinoma
+21,female,176,166,constipation,2,adenocarcinoma
+25,male,176,166,fremitus,2,adenocarcinoma
+29,male,176,166,decreased stool caliber,0,adenocarcinoma
+26,female,171,166,satiety early,1,adenocarcinoma
+30,female,171,166,hematochezia,2,adenocarcinoma
+32,female,172,166,egophony,0,adenocarcinoma
+23,male,175,166,pain,2,adenocarcinoma
+23,female,175,166,cicatrisation,1,adenocarcinoma
+23,male,190,166,scar tissue,2,adenocarcinoma
+14,female,172,166,pain abdominal,0,adenocarcinoma
+25,male,173,963,shortness of breath,2,failure heart congestive
+25,female,173,963,orthopnea,1,failure heart congestive
+25,female,173,963,jugular venous distention,2,failure heart congestive
+25,male,173,963,rale,2,failure heart congestive
+25,male,173,963,dyspnea,0,failure heart congestive
+25,female,173,963,cough,1,failure heart congestive
+25,female,173,963,wheezing,2,failure heart congestive
+25,female,173,208,fever,0,exanthema
+29,female,173,208,pruritus,2,exanthema
+29,male,173,208,macule,1,exanthema
+29,female,173,208,lesion,2,exanthema
+29,female,173,208,redness,0,exanthema
+29,female,173,208,headache,2,exanthema
+29,female,173,208,apyrexial,1,exanthema
+29,female,173,208,arthralgia,2,exanthema
+29,male,173,208,swelling,2,exanthema
+29,male,163,208,erythema,0,exanthema
+26,female,177,208,photophobia,1,exanthema
+16,female,165,208,chill,2,exanthema
+16,female,165,208,scratch marks,0,exanthema
+23,female,180,208,pain,2,exanthema
+23,female,180,208,painful swallowing,1,exanthema
+23,female,180,226,drowsiness,2,ischemia
+27,female,180,226,sleepy,0,ischemia
+27,female,180,226,pain chest,2,ischemia
+27,female,180,226,angina pectoris,1,ischemia
+19,female,162,226,pressure chest,2,ischemia
+38,male,162,226,chest discomfort,2,ischemia
+22,male,188,226,shortness of breath,0,ischemia
+22,female,188,226,dyspnea,1,ischemia
+27,male,162,226,sinus rhythm,2,ischemia
+27,male,183,226,bradycardia,0,ischemia
+19,male,162,226,sweat,2,ischemia
+20,male,173,226,sweating increased,1,ischemia
+24,female,173,226,rale,2,ischemia
+30,male,188,226,asymptomatic,0,ischemia
+36,female,162,226,anorexia,2,ischemia
+36,male,162,128,shortness of breath,1,hypertension pulmonary
+36,female,162,128,Stahli's line,2,hypertension pulmonary
+36,male,162,128,heavy legs,2,hypertension pulmonary
+36,male,162,128,breath sounds decreased,0,hypertension pulmonary
+34,male,162,128,neck stiffness,1,hypertension pulmonary
+22,male,169,128,dyspnea on exertion,2,hypertension pulmonary
+26,female,169,128,cyanosis,0,hypertension pulmonary
+34,female,162,128,hypotension,2,hypertension pulmonary
+38,male,177,128,left atrial hypertrophy,1,hypertension pulmonary
+38,male,177,630,fever,2,infection
+31,male,162,630,erythema,0,infection
+31,female,162,630,decreased translucency,2,infection
+31,female,162,630,hepatosplenomegaly,1,infection
+31,female,162,630,chill,2,infection
+39,male,162,630,pruritus,2,infection
+24,male,178,630,diarrhea,0,infection
+37,female,162,630,abscess bacterial,1,infection
+37,male,162,630,swelling,2,infection
+22,female,167,630,pain,0,infection
+20,male,162,630,apyrexial,2,infection
+29,male,178,630,cough,1,infection
+27,male,189,341,erythema,2,cellulitis
+31,male,189,341,pain,0,cellulitis
+31,male,189,341,swelling,2,cellulitis
+35,female,189,341,redness,1,cellulitis
+16,female,162,341,fever,2,cellulitis
+16,male,162,341,abscess bacterial,2,cellulitis
+23,female,194,341,patient non compliance,0,cellulitis
+26,male,174,341,hypesthesia,1,cellulitis
+38,female,169,341,hyperacusis,2,cellulitis
+20,female,162,341,pruritus,0,cellulitis
+21,male,178,341,pain chest,2,cellulitis
+25,female,178,341,scratch marks,1,cellulitis
+29,male,178,341,chill,2,cellulitis
+21,male,162,341,sore to touch,0,cellulitis
+29,female,164,160,pain,2,lymphatic diseases
+33,female,164,160,mass of body structure,1,lymphatic diseases
+25,male,171,160,night sweat,2,lymphatic diseases
+24,male,185,160,splenomegaly,2,lymphatic diseases
+39,female,163,160,lesion,0,lymphatic diseases
+43,male,163,160,chill,1,lymphatic diseases
+43,female,163,160,decreased body weight,2,lymphatic diseases
+46,male,163,160,swelling,0,lymphatic diseases
+46,male,163,160,fever,2,lymphatic diseases
+50,male,163,160,hyperacusis,1,lymphatic diseases
+50,male,163,160,fremitus,2,lymphatic diseases
+23,female,188,160,non-productive cough,0,lymphatic diseases
+23,female,188,160,egophony,2,lymphatic diseases
+23,female,188,160,redness,1,lymphatic diseases
+23,female,188,160,hepatomegaly,2,lymphatic diseases
+23,female,188,160,fatigue,2,lymphatic diseases
+27,male,188,87,pain abdominal,0,gastroenteritis
+27,female,188,87,breath-holding spell,1,gastroenteritis
+27,female,188,87,nausea,2,gastroenteritis
+27,male,188,87,decreased body weight,0,gastroenteritis
+26,female,188,87,sore to touch,2,gastroenteritis
+20,female,170,87,scleral icterus,1,gastroenteritis
+20,female,170,87,fever,2,gastroenteritis
+20,male,170,87,myalgia,0,gastroenteritis
+17,female,188,87,hyponatremia,2,gastroenteritis
+24,male,164,87,retch,1,gastroenteritis
+23,female,172,87,mass of body structure,2,gastroenteritis
+27,male,172,87,decreased body weight,2,gastroenteritis
+48,male,162,108,achalasia,0,parkinson disease
+34,female,162,108,fall,1,parkinson disease
+19,male,198,108,stiffness,2,parkinson disease
+21,male,162,108,withdraw,0,parkinson disease
+19,male,193,108,agitation,2,parkinson disease
+23,male,193,108,hemiplegia,1,parkinson disease
+27,female,193,108,difficulty,2,parkinson disease
+31,female,193,108,unresponsiveness,0,parkinson disease
+22,male,181,108,syncope,2,parkinson disease
+20,female,179,108,facial paresis,1,parkinson disease
+25,female,189,108,orthostasis,2,parkinson disease
+29,female,189,108,worry,2,parkinson disease
+26,female,162,108,drowsiness,0,parkinson disease
+23,male,171,108,sleepy,1,parkinson disease
+29,male,162,108,hematuria,2,parkinson disease
+22,female,177,108,tremor,0,parkinson disease
+22,female,177,108,night sweat,2,parkinson disease
+26,female,177,108,mass of body structure,1,parkinson disease
+30,male,177,164,pain abdominal,2,hernia
+27,male,183,164,pain,0,hernia
+25,female,171,164,hyperventilation,2,hernia
+25,male,171,164,excruciating pain,1,hernia
+27,male,162,164,gag,2,hernia
+23,male,170,164,nausea,2,hernia
+27,male,162,164,posturing,0,hernia
+23,male,185,164,hemiplegia,1,hernia
+25,male,166,164,sore to touch,2,hernia
+23,female,160,164,haemorrhage,0,hernia
+20,male,165,164,apyrexial,2,hernia
+28,female,165,164,food intolerance,1,hernia
+24,male,180,164,pulse absent,2,hernia
+24,male,183,164,asthenia,0,hernia
+24,female,183,164,mass of body structure,2,hernia
+20,male,162,164,thicken,1,hernia
+20,male,162,96,shortness of breath,2,kidney disease
+23,female,183,96,hyperkalemia,2,kidney disease
+27,female,183,96,pain chest,0,kidney disease
+20,male,178,96,fever,1,kidney disease
+25,female,167,96,gravida 0,2,kidney disease
+26,male,168,96,bleeding of vagina,0,kidney disease
+21,male,178,114,fever,2,colitis
+34,female,162,114,thicken,1,colitis
+34,male,162,114,green sputum,2,colitis
+28,female,179,114,vomiting,0,colitis
+28,female,179,114,nausea and vomiting,2,colitis
+20,male,162,114,awakening early,1,colitis
+19,female,162,114,pain,2,colitis
+23,male,162,114,nausea,2,colitis
+27,male,162,114,chill,0,colitis
+39,female,162,114,tenesmus,1,colitis
+37,male,181,114,urge incontinence,2,colitis
+37,male,181,114,pain abdominal,0,colitis
+22,male,195,114,hemodynamically stable,2,colitis
+28,female,164,310,swelling,1,deep vein thrombosis
+23,male,170,310,pain,2,deep vein thrombosis
+21,male,177,310,ecchymosis,0,deep vein thrombosis
+24,female,182,310,shortness of breath,2,deep vein thrombosis
+17,male,180,310,pain in lower limb,1,deep vein thrombosis
+21,female,180,310,cardiomegaly,2,deep vein thrombosis
+27,male,170,310,rale,2,deep vein thrombosis
+31,female,170,310,erythema,0,deep vein thrombosis
+34,female,162,310,hypotension,1,deep vein thrombosis
+23,female,191,310,clonus,2,deep vein thrombosis
+23,male,178,310,non-productive cough,0,deep vein thrombosis
+20,male,183,310,redness,2,deep vein thrombosis
+24,male,183,84,nightmare,1,personality disorder
+24,male,183,84,feeling hopeless,2,personality disorder
+28,male,183,84,transsexual,0,personality disorder
+28,male,183,84,hallucinations auditory,2,personality disorder
+32,female,183,84,irritable mood,1,personality disorder
+32,male,183,84,sleeplessness,2,personality disorder
+23,female,188,84,agitation,2,personality disorder
+27,female,188,84,weepiness,0,personality disorder
+20,female,161,84,mood depressed,1,personality disorder
+20,female,161,84,scratch marks,2,personality disorder
+24,male,161,84,nausea and vomiting,0,personality disorder
+32,female,161,84,extreme exhaustion,2,personality disorder
+23,female,162,84,side pain,1,personality disorder
+20,female,162,84,worry,2,personality disorder
+19,male,185,84,enuresis,0,personality disorder
+19,male,185,84,homelessness,2,personality disorder
+19,male,185,84,nervousness,1,personality disorder
+23,male,185,84,ascites,2,personality disorder
+23,female,185,84,pruritus,2,personality disorder
+23,female,185,247,pain chest,0,hyperlipidemia
+25,female,185,247,angina pectoris,1,hyperlipidemia
+25,male,185,247,palpitation,2,hyperlipidemia
+25,male,185,247,presence of q wave,0,hyperlipidemia
+29,female,185,247,photopsia,2,hyperlipidemia
+29,male,185,247,sweat,1,hyperlipidemia
+29,female,185,247,sweating increased,2,hyperlipidemia
+23,female,170,247,chest discomfort,0,hyperlipidemia
+29,male,162,247,shortness of breath,2,hyperlipidemia
+25,male,162,247,giddy mood,1,hyperlipidemia
+25,male,162,247,hypokinesia,2,hyperlipidemia
+22,male,181,247,hemiplegia,2,hyperlipidemia
+27,male,181,247,dizziness,0,hyperlipidemia
+24,female,186,1029,cough,1,pneumonia
+30,female,162,1029,fever,2,pneumonia
+23,male,166,1029,decreased translucency,0,pneumonia
+26,female,140,1029,shortness of breath,2,pneumonia
+30,female,140,1029,rale,1,pneumonia
+22,female,169,1029,productive cough,2,pneumonia
+17,female,163,1029,pleuritic pain,0,pneumonia
+17,male,163,1029,yellow sputum,2,pneumonia
+17,female,163,1029,breath sounds decreased,1,pneumonia
+17,male,163,1029,chill,2,pneumonia
+22,female,163,1029,rhonchus,2,pneumonia
+22,female,163,1029,green sputum,0,pneumonia
+25,male,163,1029,non-productive cough,1,pneumonia
+25,male,163,1029,wheezing,2,pneumonia
+34,female,162,1029,haemoptysis,0,pneumonia
+33,male,213,1029,distress respiratory,2,pneumonia
+33,female,213,1029,tachypnea,1,pneumonia
+38,female,185,1029,malaise,2,pneumonia
+19,female,190,1029,night sweat,0,pneumonia
+22,male,177,325,pain,2,gastroesophageal reflux disease
+26,female,177,325,pain chest,1,gastroesophageal reflux disease
+28,male,162,325,burning sensation,2,gastroesophageal reflux disease
+17,female,178,325,hyponatremia,2,gastroesophageal reflux disease
+19,female,175,325,satiety early,0,gastroesophageal reflux disease
+38,male,162,325,throbbing sensation quality,1,gastroesophageal reflux disease
+38,male,162,325,chest tightness,2,gastroesophageal reflux disease
+29,male,162,325,sensory discomfort,0,gastroesophageal reflux disease
+38,male,162,325,presence of q wave,2,gastroesophageal reflux disease
+18,female,168,325,nausea,1,gastroesophageal reflux disease
+22,male,168,325,general discomfort,2,gastroesophageal reflux disease
+28,male,177,325,constipation,0,gastroesophageal reflux disease
+24,female,202,325,palpitation,2,gastroesophageal reflux disease
+24,female,179,325,pain abdominal,1,gastroesophageal reflux disease
+28,female,179,325,heartburn,2,gastroesophageal reflux disease
+21,female,180,325,sweat,2,gastroesophageal reflux disease
+23,female,178,325,sweating increased,0,gastroesophageal reflux disease
+27,female,178,325,asthenia,1,gastroesophageal reflux disease
+23,male,176,119,mediastinal shift,2,pneumonia aspiration
+21,female,180,119,fever,0,pneumonia aspiration
+21,female,180,119,clonus,2,pneumonia aspiration
+26,female,180,119,mental status changes,1,pneumonia aspiration
+19,female,186,119,decreased translucency,2,pneumonia aspiration
+19,male,186,119,unresponsiveness,0,pneumonia aspiration
+19,male,186,119,extreme exhaustion,2,pneumonia aspiration
+22,female,186,119,stupor,1,pneumonia aspiration
+22,female,186,119,seizure,2,pneumonia aspiration
+22,female,186,119,transaminitis,2,pneumonia aspiration
+26,male,186,119,hemiplegia,0,pneumonia aspiration
+23,female,165,119,cough,1,pneumonia aspiration
+25,male,187,119,gurgle,2,pneumonia aspiration
+29,female,187,119,pain,0,pneumonia aspiration
+24,male,177,119,diarrhea,2,pneumonia aspiration
+28,female,177,119,pain abdominal,1,pneumonia aspiration
+28,female,177,158,dyspnea on exertion,2,stenosis aortic valve
+27,male,162,158,syncope,0,stenosis aortic valve
+31,male,166,158,chest discomfort,2,stenosis aortic valve
+22,female,170,158,systolic murmur,1,stenosis aortic valve
+27,female,170,158,sciatica,2,stenosis aortic valve
+35,female,170,158,angina pectoris,2,stenosis aortic valve
+33,female,162,158,pain chest,0,stenosis aortic valve
+30,male,162,158,frothy sputum,1,stenosis aortic valve
+24,female,162,158,bradycardia,2,stenosis aortic valve
+19,female,162,158,shortness of breath,0,stenosis aortic valve
+22,female,174,158,pain,2,stenosis aortic valve
+21,female,162,3363,pain chest,1,hypertensive disease
+24,female,162,3363,shortness of breath,2,hypertensive disease
+28,male,162,3363,dizziness,0,hypertensive disease
+28,male,162,3363,asthenia,2,hypertensive disease
+28,female,162,3363,fall,1,hypertensive disease
+34,female,162,3363,syncope,2,hypertensive disease
+22,female,173,3363,vertigo,2,hypertensive disease
+22,female,173,3363,sweat,0,hypertensive disease
+26,female,173,3363,sweating increased,1,hypertensive disease
+31,female,163,3363,palpitation,2,hypertensive disease
+25,female,174,3363,nausea,0,hypertensive disease
+20,female,176,3363,angina pectoris,2,hypertensive disease
+25,female,153,3363,pressure chest,1,hypertensive disease
+23,female,168,95,fall,2,glaucoma
+16,male,168,95,distended abdomen,0,glaucoma
+17,male,177,95,unsteady gait,2,glaucoma
+21,female,176,95,paresthesia,1,glaucoma
+26,male,176,95,hyponatremia,2,glaucoma
+20,male,195,95,agitation,2,glaucoma
+28,male,195,95,unconscious state,0,glaucoma
+32,male,195,95,burning sensation,1,glaucoma
+21,female,185,95,lesion,2,glaucoma
+21,male,185,95,mass of body structure,0,glaucoma
+21,female,185,311,fever,2,septicemia
+24,male,162,311,distress respiratory,1,septicemia
+19,female,165,311,hypotension,2,septicemia
+22,male,162,311,tachypnea,0,septicemia
+28,male,162,311,chill,2,septicemia
+32,male,162,311,lethargy,1,septicemia
+23,male,180,311,bradycardia,2,septicemia
+26,female,180,311,breech presentation,2,septicemia
+31,female,180,311,cyanosis,0,septicemia
+23,male,165,311,spontaneous rupture of membranes,1,septicemia
+21,male,162,311,haemorrhage,2,septicemia
+25,male,162,311,unresponsiveness,0,septicemia
+25,female,162,311,rale,2,septicemia
+25,female,162,311,apyrexial,1,septicemia
+27,female,190,172,cough,2,bronchitis
+27,male,190,172,wheezing,0,bronchitis
+18,male,162,172,shortness of breath,2,bronchitis
+34,female,168,172,chest tightness,1,bronchitis
+28,male,175,172,fever,2,bronchitis
+23,female,173,172,throat sore,2,bronchitis
+22,male,188,172,productive cough,0,bronchitis
+20,male,162,172,hepatosplenomegaly,1,bronchitis
+26,male,188,172,night sweat,2,bronchitis
+32,male,162,172,haemoptysis,0,bronchitis
+20,male,186,172,labored breathing,2,bronchitis
+24,female,186,172,snuffle,1,bronchitis
+28,female,186,172,hacking cough,2,bronchitis
+26,male,180,172,dyspnea,0,bronchitis
+30,female,180,172,chill,2,bronchitis
+34,male,180,172,stridor,1,bronchitis
+23,female,172,172,decreased body weight,2,bronchitis
+23,female,172,56,loose associations,2,delusion
+16,male,162,56,giddy mood,0,delusion
+16,female,162,56,feeling hopeless,1,delusion
+28,male,162,56,agitation,2,delusion
+36,male,162,56,hallucinations auditory,0,delusion
+18,female,162,56,irritable mood,2,delusion
+18,female,162,56,sleeplessness,1,delusion
+18,male,162,56,neologism,2,delusion
+18,male,162,56,homicidal thoughts,0,delusion
+18,female,162,56,disturbed family,2,delusion
+18,male,162,56,worry,1,delusion
+20,female,182,56,decompensation,2,delusion
+20,male,182,56,verbally abusive behavior,2,delusion
+21,male,162,56,catatonia,0,delusion
+37,male,162,56,suicidal,1,delusion
+37,male,162,56,terrify,2,delusion
+45,female,162,56,blackout,0,delusion
+45,female,162,56,weepiness,2,delusion
+45,female,162,56,impaired cognition,1,delusion
+39,female,162,56,irritable mood,2,delusion
+17,female,153,56,agitation,0,delusion
+17,male,153,135,cough,2,upper respiratory infection
+17,female,153,135,throat sore,1,upper respiratory infection
+17,female,153,135,wheezing,2,upper respiratory infection
+15,male,162,135,shortness of breath,2,upper respiratory infection
+19,female,162,135,labored breathing,0,upper respiratory infection
+19,female,162,135,fever,1,upper respiratory infection
+27,female,162,135,stuffy nose,2,upper respiratory infection
+27,male,162,135,non-productive cough,0,upper respiratory infection
+31,female,162,135,snuffle,2,upper respiratory infection
+31,male,162,135,indifferent mood,1,upper respiratory infection
+15,female,162,135,egophony,2,upper respiratory infection
+23,male,162,135,barking cough,0,upper respiratory infection
+41,male,177,135,polymyalgia,2,upper respiratory infection
+41,female,177,135,pleuritic pain,1,upper respiratory infection
+19,male,179,135,night sweat,2,upper respiratory infection
+19,male,179,135,dyspnea,2,upper respiratory infection
+23,male,179,135,productive cough,0,upper respiratory infection
+23,male,179,135,decreased translucency,1,upper respiratory infection
+22,female,177,135,rhonchus,2,upper respiratory infection
+29,female,177,135,rapid shallow breathing,0,upper respiratory infection
+23,male,194,135,apyrexial,2,upper respiratory infection
+34,female,174,135,noisy respiration,1,upper respiratory infection
+21,female,165,135,nasal discharge present,2,upper respiratory infection
+25,female,177,135,emphysematous change,0,upper respiratory infection
+30,female,162,135,frail,2,upper respiratory infection
+34,male,162,135,cystic lesion,1,upper respiratory infection
+25,male,173,135,symptom aggravating factors,2,upper respiratory infection
+34,female,168,135,hemodynamically stable,2,upper respiratory infection
+34,female,168,504,fever,0,dementia
+20,female,173,504,fall,1,dementia
+20,male,173,504,unresponsiveness,2,dementia
+34,male,162,504,lethargy,0,dementia
+24,female,168,504,agitation,2,dementia
+25,male,162,504,ecchymosis,1,dementia
+20,male,165,504,syncope,2,dementia
+20,male,165,504,rale,0,dementia
+34,male,162,504,unconscious state,2,dementia
+21,male,162,504,cough,1,dementia
+21,male,182,504,bedridden,2,dementia
+22,female,183,504,bedridden,2,dementia
+26,male,183,504,pain,0,dementia
+23,female,180,504,facial paresis,1,dementia
+23,male,180,504,abdominal tenderness,2,dementia
+23,male,180,504,rhonchus,0,dementia
+27,female,180,504,unsteady gait,2,dementia
+27,male,180,504,hallucinations auditory,1,dementia
+27,male,180,93,polyuria,2,ketoacidosis diabetic 
+25,female,180,93,vomiting,0,ketoacidosis diabetic 
+25,female,180,93,nausea,2,ketoacidosis diabetic 
+26,male,202,93,pain abdominal,1,ketoacidosis diabetic 
+19,female,175,93,milky,2,ketoacidosis diabetic 
+20,male,170,93,feeling strange,2,ketoacidosis diabetic 
+16,male,162,93,gurgle,0,ketoacidosis diabetic 
+16,female,162,93,nervousness,1,ketoacidosis diabetic 
+16,male,162,93,abdominal tenderness,2,ketoacidosis diabetic 
+16,female,162,93,regurgitates after swallowing,0,ketoacidosis diabetic 
+16,female,162,93,vision blurred,2,ketoacidosis diabetic 
+20,male,162,93,urinary hesitation,1,ketoacidosis diabetic 
+20,female,162,93,diarrhea,2,ketoacidosis diabetic 
+20,male,162,93,seizure,0,ketoacidosis diabetic 
+20,male,162,93,aura,2,ketoacidosis diabetic 
+20,female,162,85,energy increased,1,manic disorder
+22,male,204,85,suicidal,2,manic disorder
+31,male,182,85,hypersomnia,2,manic disorder
+34,male,162,85,feeling suicidal,0,manic disorder
+22,female,162,85,blanch,1,manic disorder
+22,male,162,85,hallucinations auditory,2,manic disorder
+34,male,192,85,hallucinations visual,0,manic disorder
+21,female,187,85,elation,2,manic disorder
+23,male,180,85,verbal auditory hallucinations,1,manic disorder
+23,female,160,85,feeling hopeless,2,manic disorder
+23,male,190,85,difficulty,0,manic disorder
+27,female,190,85,decompensation,2,manic disorder
+22,female,160,85,verbally abusive behavior,1,manic disorder
+28,female,167,85,suicidal,2,manic disorder
+49,male,162,85,feeling suicidal,2,manic disorder
+49,male,162,114,hallucinations auditory,0,suicide attempt
+49,male,162,114,sleeplessness,1,suicide attempt
+49,male,162,114,suicidal,2,suicide attempt
+49,male,162,114,motor retardation,0,suicide attempt
+49,male,162,114,weepiness,2,suicide attempt
+53,female,162,114,unable to concentrate,1,suicide attempt
+53,male,162,114,todd paralysis,2,suicide attempt
+53,female,162,114,worry,0,suicide attempt
+34,female,162,114,fatigue,2,suicide attempt
+19,female,198,114,tremor,1,suicide attempt
+23,female,198,114,alcoholic withdrawal symptoms,2,suicide attempt
+23,male,198,114,agitation,2,suicide attempt
+23,female,198,114,unresponsiveness,0,suicide attempt
+27,female,198,114,blackout,1,suicide attempt
+27,female,198,114,withdraw,2,suicide attempt
+27,male,198,114,difficulty,0,suicide attempt
+27,male,198,114,irritable mood,2,suicide attempt
+22,male,168,114,sensory discomfort,1,suicide attempt
+33,male,151,114,drowsiness,2,suicide attempt
+37,female,151,114,formication,0,suicide attempt
+37,female,151,114,unconscious state,2,suicide attempt
+21,female,180,114,fever,1,suicide attempt
+25,male,180,114,cough,2,suicide attempt
+29,male,180,350,fever,2,hiv infections
+35,female,176,350,night sweat,0,hiv infections
+47,male,176,350,spontaneous rupture of membranes,1,hiv infections
+29,female,185,350,cough,2,hiv infections
+33,female,185,350,cachexia,0,hiv infections
+37,male,185,350,decreased body weight,2,hiv infections
+21,male,170,350,chill,1,hiv infections
+25,male,170,350,diarrhea,2,hiv infections
+29,male,170,350,pleuritic pain,0,hiv infections
+33,male,170,350,patient non compliance,2,hiv infections
+37,female,170,350,tachypnea,1,hiv infections
+23,female,180,350,productive cough,2,hiv infections
+32,male,180,350,muscle hypotonia,2,hiv infections
+32,female,180,350,hypotonic,0,hiv infections
+36,female,180,350,feeling suicidal,1,hiv infections
+30,female,189,192,mental status changes,2,benign prostatic hypertrophy
+21,female,173,192,cachexia,0,benign prostatic hypertrophy
+25,male,173,192,blackout,2,benign prostatic hypertrophy
+19,female,170,192,orthostasis,1,benign prostatic hypertrophy
+20,male,162,192,orthopnea,2,benign prostatic hypertrophy
+24,female,165,192,night sweat,0,benign prostatic hypertrophy
+24,female,165,192,distress respiratory,2,benign prostatic hypertrophy
+24,male,185,192,anorexia,1,benign prostatic hypertrophy
+20,male,190,192,dysarthria,2,benign prostatic hypertrophy
+20,female,190,350,fever,2,HIV
+24,male,190,350,night sweat,0,HIV
+24,female,190,350,spontaneous rupture of membranes,1,HIV
+27,female,154,350,cough,2,HIV
+20,female,160,350,,0,HIV
+25,male,190,350,decreased body weight,2,HIV
+26,female,192,350,chill,1,HIV
+23,male,175,350,diarrhea,2,HIV
+27,female,175,350,pleuritic pain,0,HIV
+28,female,190,350,patient non compliance,2,HIV
+24,male,170,350,tachypnea,1,HIV
+30,male,180,350,productive cough,2,HIV
+34,male,162,350,muscle hypotonia,2,HIV
+27,male,162,350,hypotonic,0,HIV
+22,female,170,350,feeling suicidal,1,HIV
+24,male,186,142,fever,2,bacteremia
+28,male,186,142,chill,0,bacteremia
+27,female,180,142,flushing,2,bacteremia
+24,female,189,142,unresponsiveness,1,bacteremia
+29,female,169,142,indifferent mood,2,bacteremia
+24,female,181,142,urinoma,0,bacteremia
+22,female,162,142,vomiting,2,bacteremia
+22,female,162,142,distended abdomen,1,bacteremia
+24,male,175,142,hypoalbuminemia,2,bacteremia
+20,female,162,142,pustule,2,bacteremia
+20,female,162,142,prostatism,0,bacteremia
+19,female,191,142,diarrhea,1,bacteremia
+19,female,191,142,abdominal tenderness,2,bacteremia
+23,male,191,142,pleuritic pain,0,bacteremia
+23,male,191,142,decreased translucency,2,bacteremia
+20,female,177,142,pallor,1,bacteremia
+20,female,162,68,transaminitis,2,neutropenia
+20,female,162,68,splenomegaly,0,neutropenia
+20,male,162,68,night sweat,2,neutropenia
+37,female,162,68,apyrexial,1,neutropenia
+33,male,182,68,lesion,2,neutropenia
+28,female,182,68,snuffle,2,neutropenia
+22,male,178,68,chill,0,neutropenia
+21,female,166,68,cough,1,neutropenia
+21,female,166,68,monoclonal,2,neutropenia
+25,male,166,68,hypocalcemia result,0,neutropenia
+31,male,173,68,oliguria,2,neutropenia
+31,female,173,68,rhd positive,1,neutropenia
+27,female,162,68,distress respiratory,2,neutropenia
+27,female,162,111,inappropriate affect,0,hepatitis B
+34,female,186,111,tachypnea,2,hepatitis B
+25,male,186,111,yellow sputum,1,hepatitis B
+23,female,162,111,projectile vomiting,2,hepatitis B
+27,female,162,111,poor feeding,2,hepatitis B
+35,female,162,111,pain abdominal,0,hepatitis B
+44,female,162,111,abdominal tenderness,1,hepatitis B
+20,female,162,111,wheelchair bound,2,hepatitis B
+25,male,188,111,moan,0,hepatitis B
+19,male,175,269,ascites,2,hepatitis C
+30,female,187,269,distended abdomen,1,hepatitis C
+23,female,175,269,feeling suicidal,2,hepatitis C
+16,female,158,269,cough,0,hepatitis C
+16,female,158,269,ache,2,hepatitis C
+16,female,158,269,macerated skin,1,hepatitis C
+16,female,158,269,heavy feeling,2,hepatitis C
+16,female,158,269,hallucinations auditory,2,hepatitis C
+20,female,158,269,chill,0,hepatitis C
+20,female,158,269,asterixis,1,hepatitis C
+20,female,158,269,patient non compliance,2,hepatitis C
+30,male,164,1284,pain chest,0,coronary heart disease
+26,male,175,1284,angina pectoris,2,coronary heart disease
+19,female,182,1284,shortness of breath,1,coronary heart disease
+23,male,182,1284,hypokinesia,2,coronary heart disease
+20,male,169,1284,sweat,0,coronary heart disease
+28,male,162,1284,sweating increased,2,coronary heart disease
+26,male,162,1284,pressure chest,1,coronary heart disease
+26,female,162,1284,dyspnea on exertion,2,coronary heart disease
+26,male,162,1284,orthopnea,2,coronary heart disease
+21,female,186,1284,chest tightness,0,coronary heart disease
+26,male,187,86,lesion,1,carcinoma of lung
+18,female,180,86,cough,2,carcinoma of lung
+18,male,168,86,lung nodule,0,carcinoma of lung
+18,male,168,86,shortness of breath,2,carcinoma of lung
+28,male,194,86,haemoptysis,1,carcinoma of lung
+34,male,162,86,debilitation,2,carcinoma of lung
+19,female,163,86,gurgle,0,carcinoma of lung
+22,female,183,86,ache,2,carcinoma of lung
+26,male,183,86,rale,1,carcinoma of lung
+30,male,183,86,night sweat,2,carcinoma of lung
+27,male,184,86,decreased translucency,2,carcinoma of lung
+17,female,162,86,asthenia,0,carcinoma of lung
+20,female,180,86,metastatic lesion,1,carcinoma of lung
+20,female,180,86,agitation,2,carcinoma of lung
+24,male,180,86,irritable mood,0,carcinoma of lung
+24,male,180,179,pain,2,arthritis
+24,female,189,179,hemodynamically stable,1,arthritis
+22,male,162,179,sleeplessness,2,arthritis
+21,female,190,179,asthenia,0,arthritis
+25,male,176,179,syncope,2,arthritis
+25,male,171,179,swelling,1,arthritis
+22,male,178,179,atypia,2,arthritis
+28,male,175,179,general unsteadiness,2,arthritis
+20,male,165,179,shortness of breath,0,arthritis
+20,female,165,179,distended abdomen,1,arthritis
+19,female,194,86,lesion,2,malignant neoplasm of lung
+23,male,194,86,cough,0,malignant neoplasm of lung
+27,female,194,86,lung nodule,2,malignant neoplasm of lung
+31,male,194,86,shortness of breath,1,malignant neoplasm of lung
+35,female,194,86,haemoptysis,2,malignant neoplasm of lung
+20,female,188,86,debilitation,0,malignant neoplasm of lung
+24,male,188,86,gurgle,2,malignant neoplasm of lung
+28,female,188,86,ache,1,malignant neoplasm of lung
+32,male,188,86,rale,2,malignant neoplasm of lung
+37,male,172,86,night sweat,2,malignant neoplasm of lung
+37,female,172,86,decreased translucency,0,malignant neoplasm of lung
+21,female,162,86,asthenia,1,malignant neoplasm of lung
+34,male,162,86,metastatic lesion,2,malignant neoplasm of lung
+25,male,169,86,agitation,0,malignant neoplasm of lung
+21,female,184,86,irritable mood,2,malignant neoplasm of lung
+21,male,184,269,mass of body structure,1,carcinoma
+21,female,184,269,pain,2,carcinoma
+25,male,173,269,lesion,0,carcinoma
+19,male,162,269,tumor cell invasion,2,carcinoma
+27,male,162,269,thicken,1,carcinoma
+27,male,162,269,decreased body weight,2,carcinoma
+27,female,162,269,hoarseness,2,carcinoma
+27,female,193,269,general discomfort,0,carcinoma
+28,female,175,269,metastatic lesion,1,carcinoma
+16,female,148,269,non-productive cough,2,carcinoma
+16,female,148,269,constipation,0,carcinoma
+16,male,148,269,unhappy,2,carcinoma
+16,female,148,269,paresthesia,1,carcinoma
+16,female,148,269,gravida 0,2,carcinoma
+16,male,148,269,diarrhea,0,carcinoma
+21,female,190,269,sore to touch,2,carcinoma
+25,female,190,269,heartburn,1,carcinoma
+29,female,190,269,nausea,2,carcinoma
+23,male,171,269,lung nodule,2,carcinoma
+16,female,160,68,unsteady gait,0,delirium
+21,male,193,68,withdraw,1,delirium
+24,female,187,68,hyponatremia,2,delirium
+27,male,187,68,verbally abusive behavior,0,delirium
+31,male,187,68,feeling suicidal,2,delirium
+35,female,187,68,unresponsiveness,1,delirium
+20,male,158,68,worry,2,delirium
+24,male,173,68,drowsiness,0,delirium
+28,male,173,68,sleepy,2,delirium
+28,male,173,68,hallucinations auditory,1,delirium
+30,female,181,68,suicidal,2,delirium
+34,female,181,68,fever,2,delirium
+25,male,170,68,diarrhea,0,delirium
+27,female,162,87,mass of body structure,1,melanoma
+27,female,162,87,paraparesis,2,melanoma
+28,female,182,87,fever,0,melanoma
+31,female,195,87,gravida 0,2,melanoma
+26,male,180,87,pain,1,melanoma
+26,male,180,87,pruritus,2,melanoma
+19,female,180,87,mass in breast,0,melanoma
+23,female,162,87,vomiting,2,melanoma
+23,female,162,87,diarrhea,1,melanoma
+35,male,162,186,hyperkalemia,2,kidney failure acute
+22,male,186,186,hypotension,2,kidney failure acute
+24,female,168,186,hypocalcemia result,0,kidney failure acute
+23,male,178,186,oliguria,1,kidney failure acute
+31,male,178,186,hemodynamically stable,2,kidney failure acute
+27,male,179,186,asthenia,0,kidney failure acute
+27,male,159,186,"hypothermia, natural",2,kidney failure acute
+29,male,185,186,diarrhea,1,kidney failure acute
+23,male,164,186,haemorrhage,2,kidney failure acute
+24,female,193,186,unresponsiveness,0,kidney failure acute
+32,male,193,1421,polyuria,2,diabetes
+19,female,167,1421,polydypsia,1,diabetes
+18,male,162,1421,shortness of breath,2,diabetes
+22,male,184,1421,pain chest,2,diabetes
+39,female,163,1421,asthenia,0,diabetes
+47,male,163,1421,nausea,1,diabetes
+22,male,162,1421,orthopnea,2,diabetes
+24,female,166,1421,rale,0,diabetes
+23,female,170,1421,sweat,2,diabetes
+23,male,180,1421,sweating increased,1,diabetes
+31,female,180,1421,unresponsiveness,2,diabetes
+22,male,162,1421,mental status changes,0,diabetes
+23,male,163,1421,vertigo,2,diabetes
+23,female,163,1421,vomiting,1,diabetes
+27,male,163,1421,labored breathing,2,diabetes
+25,female,180,311,fever,2,systemic infection
+47,female,162,311,distress respiratory,0,systemic infection
+21,male,172,311,hypotension,1,systemic infection
+21,female,168,311,tachypnea,2,systemic infection
+20,male,184,311,chill,0,systemic infection
+24,male,184,311,lethargy,2,systemic infection
+28,female,184,311,bradycardia,1,systemic infection
+21,male,167,311,breech presentation,2,systemic infection
+25,male,167,311,cyanosis,0,systemic infection
+18,male,170,311,spontaneous rupture of membranes,2,systemic infection
+34,female,162,311,haemorrhage,1,systemic infection
+19,male,162,311,unresponsiveness,2,systemic infection
+23,male,175,311,rale,2,systemic infection
+29,female,180,311,apyrexial,0,systemic infection
+26,male,186,90,pain,1,malignant neoplasms
+22,female,176,90,mass of body structure,2,malignant neoplasms
+22,male,176,90,lesion,0,malignant neoplasms
+18,female,194,90,cushingoid facies,2,malignant neoplasms
+18,female,194,90,cushingoid habitus,1,malignant neoplasms
+17,female,187,90,emphysematous change,2,malignant neoplasms
+17,male,187,90,decreased body weight,0,malignant neoplasms
+21,male,187,90,ascites,2,malignant neoplasms
+28,male,177,90,hoarseness,1,malignant neoplasms
+18,male,173,90,thicken,2,malignant neoplasms
+20,male,160,90,hematuria,2,malignant neoplasms
+17,male,162,90,pulsus paradoxus,0,malignant neoplasms
+21,female,162,90,gravida 10,1,malignant neoplasms
+21,male,193,90,mass of body structure,2,malignant neoplasms
+27,female,190,90,lesion,0,malignant neoplasms
+25,female,177,90,heartburn,2,malignant neoplasms
+29,female,177,90,night sweat,1,malignant neoplasms
+27,female,171,90,thicken,2,malignant neoplasms
+22,male,170,90,chill,0,malignant neoplasms
+26,female,170,90,decreased translucency,2,malignant neoplasms
+30,female,170,90,pain abdominal,1,malignant neoplasms
+18,female,168,90,dullness,2,malignant neoplasms
+34,male,162,90,food intolerance,2,malignant neoplasms
+21,male,172,90,distress respiratory,0,malignant neoplasms
+29,male,172,90,hypotension,1,malignant neoplasms
+33,male,172,99,asthenia,2,neuropathy
+22,female,171,99,numbness,0,neuropathy
+20,female,175,99,nausea and vomiting,2,neuropathy
+25,female,162,99,awakening early,1,neuropathy
+25,male,162,99,hydropneumothorax,2,neuropathy
+25,male,162,99,superimposition,0,neuropathy
+29,female,162,99,fatigability,2,neuropathy
+29,male,162,99,tenesmus,1,neuropathy
+29,female,162,99,pain,2,neuropathy
+20,female,202,99,slowing of urinary stream,2,neuropathy
+20,male,202,144,rale,0,overload fluid
+20,male,202,144,jugular venous distention,1,overload fluid
+20,male,202,144,hyperkalemia,2,overload fluid
+20,male,202,144,orthopnea,0,overload fluid
+24,male,202,144,shortness of breath,2,overload fluid
+17,female,162,144,drowsiness,1,overload fluid
+17,female,162,144,sleepy,2,overload fluid
+21,male,162,144,weight gain,0,overload fluid
+21,female,162,144,hypokalemia,2,overload fluid
+21,female,162,144,hypotension,1,overload fluid
+20,female,165,144,swelling,2,overload fluid
+20,female,162,144,distended abdomen,2,overload fluid
+27,male,182,61,ambidexterity,0,migraine disorders
+32,female,175,61,vomiting,1,migraine disorders
+20,male,162,61,dizziness,2,migraine disorders
+20,female,173,61,numbness,0,migraine disorders
+24,female,168,61,nausea,2,migraine disorders
+17,male,168,61,fever,1,migraine disorders
+17,male,168,61,splenomegaly,2,migraine disorders
